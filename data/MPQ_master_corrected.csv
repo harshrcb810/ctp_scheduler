@@ -1,0 +1,35 @@
+line,item_type,min_run_qty,min_uom,max_run_qty,min_batches,source,note
+PCR,MASTER COMPOUND,3 batches,KG,,3,P,3 x mixer batch_kg (180-350) -> 540-1050 KG
+PCR,FINAL COMPOUND,3 batches,KG,,3,P,3 x final-mixer batch (270F=220/310F=230) -> 660-690 KG
+PCR,CALANDARED ROLL,spool/dipped roll length,MTR,,,P,one spool (steel 3500-12600 M)/dipped roll (fabric 500-3000 M); see Calender_Roll_Lengths
+PCR,RUBBERIZED PLY,400,Nos,,,P,
+PCR,BEAD BUNDLE,1000,Nos,,,P,
+PCR,BEAD APEX,1000,Nos,,,P,
+PCR,STEEL BELT,230,MTR,,,P,
+PCR,TREAD,129,Nos,,,P,
+PCR,SIDEWALL,130,MTR,,,P,
+PCR,INNER LINER,140,MTR,,,P,
+PCR,CAP STRIP,1800,MTR,,,P,
+PCR,PLY,350,MTR,,,P,
+PCR,SMALL CHEMICAL,1 batch,KG,,1,F,pre-weighed chemical sub-batch; 1 master/final batch 180-350 KG
+PCR,APEX,3 batches,KG,,3,F,bead-apex compound (mass form); track FINAL COMPOUND
+PCR,STEEL BELT EDGE STRIP,230,MTR,,,F,narrow steel-belt edge; track STEEL BELT
+PCR,SLITTED MATERIAL,350,MTR,,,F,slit ply/fabric; track PLY
+PCR,PRE CUT ROLL MATERIAL,spool/dipped roll length,MTR,,,F,calendered roll cut to length; track CALANDARED ROLL
+TBR,MASTER COMPOUND,3 batches,KG,,3,P,3 x mixer batch_kg
+TBR,FINAL COMPOUND,3 batches,KG,,3,P,3 x final-mixer batch
+TBR,CALANDARED ROLL,300,MTR,,,P,
+TBR,RUBBERIZED PLY,140,Nos,,,P,
+TBR,BEAD APEX,33,Nos,,,P,
+TBR,WOUND BEAD,200,Nos,,,P,
+TBR,BELT,230,MTR,,,P,
+TBR,TREAD,38,Nos,,,P,
+TBR,SIDEWALL,70,MTR,,,P,
+TBR,INNER LINER,140,MTR,,,P,
+TBR,PLY,130,MTR,,,P,
+TBR,CHAFFER,300,MTR,,,P,
+TBR,SHOULDER PAD,100,MTR,,,P,
+TBR,SMALL CHEMICAL,1 batch,KG,,1,F,pre-weighed chemical sub-batch
+TBR,APEX,3 batches,KG,,3,F,bead-apex compound (mass form)
+TBR,SLITTED MATERIAL,130,MTR,,,F,track PLY
+TBR,PRE CUT ROLL MATERIAL,300,MTR,,,F,track CALANDARED ROLL

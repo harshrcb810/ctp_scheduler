@@ -1,0 +1,25 @@
+item_type,plant_abbrev,transfer_min_PCR,transfer_min_TBR,source,note
+INNER LINER,IL,10,15,P,
+SIDEWALL,SW,10,10,P,
+PLY,Ply,10,10,P,
+BEAD APEX,Bead,7,7,P,
+TREAD,Traed,15,15,P,plant spelling 'Traed'
+BELT,Belt,10,10,P,
+STEEL BELT,Belt,10,10,P,= plant Belt
+CAP STRIP,Capstrip,5,5,P,
+FINAL COMPOUND,Final Compound,10,10,P,
+MASTER COMPOUND,Master Compound,4,4,P,
+CHAFFER,Chaffer,7,7,P,
+STEEL TYRE CORD,STC,10,10,P,STC = steel tyre cord (calendered steel)
+SHOULDER PAD,SP,10,10,P,
+BEAD BUNDLE,Bead,7,7,F,= plant Bead
+WOUND BEAD,Bead,7,7,F,= plant Bead
+RUBBERIZED PLY,Ply,10,10,F,= plant Ply
+CALANDARED ROLL,STC/Ply,10,10,F,calendered roll = STC/Ply
+SMALL CHEMICAL,Master Compound,4,4,F,mixing sub-batch = Master Compound
+APEX,Bead,7,7,F,bead-apex compound = Bead
+STEEL BELT EDGE STRIP,Belt,10,10,F,= plant Belt
+SLITTED MATERIAL,Ply,10,10,F,= plant Ply
+PRE CUT ROLL MATERIAL,STC/Ply,10,10,F,= calendered roll
+GREEN TYRE,-,10,10,F,build->cure move; default 10
+CARCASS,-,10,10,F,stage1->stage2 build move; default 10

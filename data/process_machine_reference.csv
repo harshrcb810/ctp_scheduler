@@ -1,0 +1,37 @@
+Process_Stage,Op_Seq,Operation,Machine_Group,Plant,Machine_Count,Machine_IDs,Input_Material,Output_Material
+Mixing,10,Master Mixing,Master Mixer,PCR,4,"F270 M, F440 M, K430-1 M, K430-2 M","Rubber,carbon,chemicals",Master batch-Compound
+Mixing,20,Final Mixing,Final Mixer,PCR,2,"F270 F, K310 F","Master batch-Compound , Sulphur",Final batch
+Calendering,30,4 Roll Calender,4 Roll Calender,PCR,1,901,"Spools,Mother roll","Ply roll,Calender belt roll"
+Calendering,50,Roller Head Calender,Roller Head Calender PCR,PCR,1,1101,Final batch,Inner liner
+Calendering,50,Roller Head Calender,Roller Head Calender TBR,TBR,1,1901,Final batch,Inner liner
+Extrusion,70,BEF Extruder (TBR),BEF Extruder TBR,TBR,1,1802,Final batch,Belt edge filler
+Extrusion,70,Duplex Extruder (TBR),Duplex Extruder TBR,TBR,1,1801,Final batch,Tread
+Extrusion,70,Quadraplex Extruder (TBR),Quadraplex Extruder TBR,TBR,1,1803,Final batch,"Sidewall,shoulder pad"
+Extrusion,70,Triplex Extruder,Triplex Extruder PCR,PCR,1,1001,Final batch,Sidewall
+Extrusion,80,Quintoplex Extruder,Quintoplex Extruder PCR,PCR,1,1002,Final batch,"Tread,white sidewall"
+Cutting,110,Belt Cutter,Belt Cutter PCR,PCR,1,801,Calender belt roll,Belt
+Cutting,110,Belt Cutter,Belt Cutter TBR,TBR,1,802,Calender belt roll,Belt
+Cutting,120,Bias Cutter,Bias cutter,PCR,1,2001,Ply roll,Chafer
+Cutting,90,Body Ply Cutter (TBR),Body Ply Cutter TBR,TBR,1,2101,Calender belt roll,Steel ply
+Cutting,90,Ply Cutter (Fischer),Fischer Ply Cutter PCR,PCR,1,1104,Ply roll,Fabric Ply
+Cutting,90,Ply Cutter (Textile),Textile Ply Cutter PCR,PCR,1,1103,Ply roll,Fabric Ply
+Slitting,140,Cap Ply Cutter,Cap Ply Cutter,PCR,1,601,"Calender roll, Edge gum compond","Cap ply ,Edge gum"
+Slitting,140,Cap Strip Slitter,Cap Strip Slitter,PCR,2,"701, 702",Cap ply,Capstrip
+Slitting,160,Chafer Slitter,Chafer slitter,PCR,2,"2401, 2402",Chafer,Chafer
+Assembly,-,Super Assembly (TBR),Super Assembly,TBR,1,2201,"IL,SW",PA
+Bead,180,Bead Winding,Bead Winding PCR,PCR,1,1201,"Spool,Final batch",Wound bead
+Bead,190,Bead Apexing,Bead Apexing PCR,PCR,3,"201, 202, 0301","wound bead,Final batch",Apex bead
+Bead,190,Bead Apexing,Bead Apexing TDA TBR,TBR,3,"2403, 2404, 2405","Spool ,Final batch",Apex bead
+Building,195/200,Carcass + Green-Tyre Building,TBM BJ,PCR,5,"3401, 3402, 3403, 3404, 3405",Stock component's,Green Tire
+Building,195/200,Carcass + Green-Tyre Building,TBM Conti,PCR,6,"3406, 3407, 3408, 3409,3410, 3411",Stock component's,Green Tire
+Building,195/200,Building (TBR),TBM MESNAC,TBR,6,"3804, 3805, 3806, 3807, 3808, 3809",Stock component's,Green Tire
+Building,195/200,Building (TBR),TBM SAV,TBR,3,"3801, 3802, 3803",Stock component's,Green Tire
+Curing,210,Curing (PCR DRUM),TCP PCR,PCR,90,"3609,3610,3611,3612,3613,3614,3615,3616,4501,4502,4503,4504,4505,4506,4507,4508,4509,4510,4511,4512,4513,4514,4515,4601,4602,4603,4604,4605,4606,4607,4608,4609,4610,4801,4802,4803,4804,4805,4806,4807,4808,4809,4810,4811,4812,4813,4814,4815,4816,4817,4818,4819,4820,4821,4822,4823,4824,4825,4826,4827,4828,4829,4830,4831,4832,4833,4834,4835,4836,4837,4838,4839,4840,4841,4842,4843,4844,4845,4846,4847,4848,4849,4850,4851,4852,4853,5201,5202,5203,6009",Lubed tire,Cured tire
+Curing,210,Curing (TBR DRUM),TCP TBR,TBR,81,,Lubed tire,Cured tire
+Finishing,-,Painting,Painting mchines,PCR,2,,Green tire,Lubed tire
+Inspection,-,Balance,Dynamic balance machine's,PCR,5,,,
+Inspection,-,Final Inspection,Inspection Stations,PCR,8,,Cured tire,Cured tire
+Inspection,-,Serography,Serography machine,TBR,1,,,
+Inspection,-,Balance,Static balance,PCR,1,,,
+Inspection,-,Uniformity,Uniformity machine's,PCR,6,,,
+Inspection,-,X-Ray,X-Rayb machine's,TBR,2,,,

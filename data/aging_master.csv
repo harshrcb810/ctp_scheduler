@@ -1,0 +1,19 @@
+item_type,min_h,max_h,line,source_note
+green tyre,0.25,24,PCR,GREEN_TYRE 15min-1day (screenshot)
+tread,2,72,PCR,TREAD 2h-3days (silica 1d / carbon 3d)
+sidewall,2,72,PCR,SIDEWALL 2h-3days
+steel belt,0,24,PCR,BELT 1 day
+steel belt edge strip,0,24,PCR,belt family 1 day
+ply,0,24,PCR,PLY 1 day
+inner liner,6,72,PCR,INNERLINER 6h-3days
+bead apex,0,72,PCR,BEAD_APEX 3 days
+apex,0,72,PCR,apex 3 days
+cap strip,0,24,PCR,CAPSTRIP 1 day
+chafer,0,24,PCR,CHAFFER 1 day
+calandared roll,0,24,PCR,calendered sheet ~ belt/ply 1 day
+carcass,0,24,PCR,1st-stage WIP assembly ~1 day
+bead bundle,0,24,PCR,bead family 1 day
+final compound,4,72,PCR,FINAL_COMPOUND silica 3d (non-silica 5d; white SW 7d)
+master compound,4,72,PCR,MASTER_COMPOUND silica 3d (non-silica up to 15d)
+small chemical,0,72,PCR,pre-weighed chemical sub-batch stable
+finished goods,0,168,PCR,FG 1 week

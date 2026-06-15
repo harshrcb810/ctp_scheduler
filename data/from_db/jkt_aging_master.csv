@@ -1,0 +1,2659 @@
+ItemCode,MaxAging,MinAging,MaxAgingUnit,MinAgingUnit,Equipment
+000000001053839500,120.0,4.0,Hours,Hours,Final Mixing
+24MG,360.0,4.0,Hours,Hours,Master Mixing
+24MGAMC,,,,,Mixing
+24MGBMC,,,,,Mixing
+25G,120.0,4.0,Hours,Hours,Final Mixing
+25GFC,,,,,Mixing
+29MG,360.0,4.0,Hours,Hours,Master Mixing
+29MGMC,,,,,Mixing
+30G,120.0,4.0,Hours,Hours,Final Mixing
+30GFC,,,,,Mixing
+A1031,120.0,4.0,Hours,Hours,Final Mixing
+A1031FC,,,,,Mixing
+A1035FC,,,,,Mixing
+A1133,120.0,4.0,Hours,Hours,Final Mixing
+A1133FC,,,,,Mixing
+A5542,120.0,4.0,Hours,Hours,Final Mixing
+A5542FC,,,,,Mixing
+AP 0011,,,,,Bead
+AP 0012,,,,,Unknown
+AP 0018,,,,,Bead
+AP 0022,,,,,Unknown
+AP0007,,,,,Bead
+AP0009,,,,,Unknown
+AP0018T1,,,,,Bead
+B1,120.0,4.0,Hours,Hours,Final Mixing
+B1-1462 NXT,24.0,0.0,Hours,Hours,Cutting
+B1-1482 NXT,24.0,0.0,Hours,Hours,Cutting
+B1-1684 TOR MARUTI,24.0,0.0,Hours,Hours,Cutting
+B1-1865 VEC,24.0,0.0,Hours,Hours,Cutting
+B1-2155 BRU,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT001,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT002,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT003,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT004,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT005,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT006,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT007,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT008,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT009,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT010,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT011,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT012,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT013,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT014,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT015,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT016,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT017,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT018,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT019,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT020,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT021,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT022,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT024,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT025,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT026,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT027,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT028,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT029,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT030,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT031,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT032,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT033,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT034,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT035,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT036,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT037,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT038,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT039,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT040,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT041,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT042,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT043,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT044,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT045,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT046,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT047,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT048,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT049,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT050,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT051,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT052,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT053,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT054,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT055,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT056,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT057,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT058,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT059,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT060,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT061,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT062,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT063,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT064,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT065,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT066,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT067,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT068,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT069,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT070,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT071,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT072,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT073,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT074,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT075,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT076,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT077,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT078,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT079,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT080,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT081,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT082,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT083,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT084,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT085,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT086,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT088,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT089,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT090,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT091,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT093,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT094,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT095,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT096,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT097,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT098,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT099,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT100,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT101,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT102,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT103,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT104,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT105,24.0,0.0,Hours,Hours,Cutting
+B1-PBLT107,24.0,0.0,Hours,Hours,Cutting
+B1-SBLT01,24.0,0.0,Hours,Hours,Cutting
+B1-SBLT02,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT001,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT002,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT003,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT005,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT006,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT007,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT008,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT009,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT010,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT011,24.0,0.0,Hours,Hours,Cutting
+B1-TBLT012,24.0,0.0,Hours,Hours,Cutting
+B107,120.0,4.0,Hours,Hours,Final Mixing
+B107FC,,,,,Mixing
+B1144,120.0,4.0,Hours,Hours,Final Mixing
+B127,96.0,4.0,Hours,Hours,Final Mixing
+B127FC,,,,,Final Mixing
+B176,120.0,4.0,Hours,Hours,Final Mixing
+B176FC,,,,,Mixing
+B186,120.0,4.0,Hours,Hours,Final Mixing
+B186FC,,,,,Final Mixing
+B2-1462 NXT,24.0,0.0,Hours,Hours,Cutting
+B2-1482 NXT,24.0,0.0,Hours,Hours,Cutting
+B2-1684 TOR MARUTI,24.0,0.0,Hours,Hours,Cutting
+B2-1865 VEC,24.0,0.0,Hours,Hours,Cutting
+B2-2155 BRU,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT001,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT002,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT003,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT004,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT005,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT006,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT007,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT008,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT009,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT010,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT011,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT012,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT013,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT014,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT015,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT016,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT017,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT018,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT019,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT020,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT021,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT022,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT024,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT025,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT026,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT027,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT028,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT029,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT030,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT031,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT032,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT033,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT034,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT035,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT036,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT037,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT038,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT039,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT040,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT041,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT042,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT043,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT044,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT045,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT046,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT047,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT048,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT049,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT050,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT051,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT052,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT053,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT054,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT055,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT056,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT057,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT058,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT059,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT060,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT061,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT062,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT063,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT064,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT065,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT066,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT067,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT068,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT069,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT070,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT071,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT072,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT073,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT074,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT075,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT076,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT077,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT078,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT079,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT080,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT081,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT082,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT083,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT084,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT085,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT086,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT088,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT089,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT090,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT091,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT093,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT094,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT095,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT096,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT097,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT098,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT099,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT100,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT101,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT102,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT103,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT104,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT105,24.0,0.0,Hours,Hours,Cutting
+B2-PBLT107,24.0,0.0,Hours,Hours,Cutting
+B2-SBLT01,24.0,0.0,Hours,Hours,Cutting
+B2-SBLT02,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT001,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT002,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT004,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT005,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT006,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT007,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT008,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT009,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT010,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT011,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT012,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT013,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT014,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT015,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT016,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT017,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT018,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT019,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT020,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT021,24.0,0.0,Hours,Hours,Cutting
+B2-TBLT023,24.0,0.0,Hours,Hours,Cutting
+B278,120.0,4.0,Hours,Hours,Final Mixing
+B278FC,,,,,Final Mixing
+B3-TBLT001,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT002,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT004,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT005,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT006,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT007,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT008,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT009,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT010,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT011,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT012,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT013,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT015,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT016,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT017,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT019,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT021,24.0,0.0,Hours,Hours,Cutting
+B3-TBLT023,24.0,0.0,Hours,Hours,Cutting
+B333,120.0,4.0,Hours,Hours,Final Mixing
+B333ARS,360.0,4.0,Hours,Hours,Mixing
+B333ARSMC,,,,,Mixing
+B333FC,,,,,Final Mixing
+B340,120.0,4.0,Hours,Hours,Final Mixing
+B350,120.0,4.0,Hours,Hours,Final Mixing
+B350FC,,,,,Final Mixing
+B355,120.0,4.0,Hours,Hours,Final Mixing
+B355FC,,,,,Final Mixing
+B370,120.0,4.0,Hours,Hours,Final Mixing
+B370FC,,,,,Final Mixing
+B4-TBLT001,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT002,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT003,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT006,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT007,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT008,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT010,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT011,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT013,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT014,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT016,24.0,0.0,Hours,Hours,Cutting
+B4-TBLT018,24.0,0.0,Hours,Hours,Cutting
+B458,120.0,4.0,Hours,Hours,Final Mixing
+B458FC,,,,,Final Mixing
+B460,96.0,4.0,Hours,Hours,Final Mixing
+B460FC,,,,,Final Mixing
+B606,120.0,4.0,Hours,Hours,Final Mixing
+B606FC,,,,,Mixing
+B616M,120.0,4.0,Hours,Hours,Final Mixing
+B616MFC,,,,,Final Mixing
+B617,,,,,Final Mixing
+B617FC,,,,,Final Mixing
+B714,120.0,4.0,Hours,Hours,Final Mixing
+B714FC,,,,,Final Mixing
+B715,120.0,4.0,Hours,Hours,Final Mixing
+B717M,120.0,4.0,Hours,Hours,Final Mixing
+B717MFC,,,,,Mixing
+B815,120.0,4.0,Hours,Hours,Final Mixing
+B815FC,,,,,Final Mixing
+B93FC,,,,,Mixing
+B96,120.0,4.0,Hours,Hours,Final Mixing
+B96FC,,,,,Mixing
+B99,120.0,4.0,Hours,Hours,Final Mixing
+B99EG,120.0,4.0,Hours,Hours,Final Mixing
+B99EGFC,,,,,Mixing
+B99FC,,,,,Mixing
+BA12001,72.0,0.0,Hours,Hours,Bead
+BA12003,72.0,0.0,Hours,Hours,Bead
+BA12004,72.0,0.0,Hours,Hours,Bead
+BA13001,72.0,0.0,Hours,Hours,Bead
+BA13002,72.0,0.0,Hours,Hours,Bead
+BA13003,72.0,0.0,Hours,Hours,Bead
+BA13006,72.0,0.0,Hours,Hours,Bead
+BA13007,72.0,0.0,Hours,Hours,Bead
+BA14001,72.0,0.0,Hours,Hours,Bead
+BA14002,72.0,0.0,Hours,Hours,Bead
+BA14004,72.0,0.0,Hours,Hours,Bead
+BA14005,72.0,0.0,Hours,Hours,Bead
+BA14006,72.0,0.0,Hours,Hours,Bead
+BA14007,72.0,0.0,Hours,Hours,Bead
+BA14008,72.0,0.0,Hours,Hours,Bead
+BA14009,72.0,0.0,Hours,Hours,Bead
+BA14010,72.0,0.0,Hours,Hours,Bead
+BA14014,72.0,0.0,Hours,Hours,Bead
+BA14015,72.0,0.0,Hours,Hours,Bead
+BA15002,72.0,0.0,Hours,Hours,Bead
+BA15003,72.0,0.0,Hours,Hours,Bead
+BA15004,72.0,0.0,Hours,Hours,Bead
+BA15005,72.0,0.0,Hours,Hours,Bead
+BA15006,72.0,0.0,Hours,Hours,Bead
+BA15007,72.0,0.0,Hours,Hours,Bead
+BA15008,72.0,0.0,Hours,Hours,Bead
+BA15009,72.0,0.0,Hours,Hours,Bead
+BA15010,72.0,0.0,Hours,Hours,Bead
+BA15011,72.0,0.0,Hours,Hours,Bead
+BA15012,72.0,0.0,Hours,Hours,Bead
+BA15013,72.0,0.0,Hours,Hours,Bead
+BA15014,72.0,0.0,Hours,Hours,Bead
+BA15015,72.0,0.0,Hours,Hours,Bead
+BA15017,72.0,0.0,Hours,Hours,Bead
+BA15019,72.0,0.0,Hours,Hours,Bead
+BA16001,72.0,0.0,Hours,Hours,Bead
+BA16002,72.0,0.0,Hours,Hours,Bead
+BA16003,72.0,0.0,Hours,Hours,Bead
+BA16004,72.0,0.0,Hours,Hours,Bead
+BA16005,72.0,0.0,Hours,Hours,Bead
+BA16007,72.0,0.0,Hours,Hours,Bead
+BA16008,72.0,0.0,Hours,Hours,Bead
+BA16009,72.0,0.0,Hours,Hours,Bead
+BA16010,72.0,0.0,Hours,Hours,Bead
+BA16011,72.0,0.0,Hours,Hours,Bead
+BA16012,72.0,0.0,Hours,Hours,Bead
+BA16013,72.0,0.0,Hours,Hours,Bead
+BA16014,72.0,0.0,Hours,Hours,Bead
+BA16015,72.0,0.0,Hours,Hours,Bead
+BA16016,72.0,0.0,Hours,Hours,Bead
+BA17002,72.0,0.0,Hours,Hours,Bead
+BA17003,72.0,0.0,Hours,Hours,Bead
+BA17004,72.0,0.0,Hours,Hours,Bead
+BA17005,72.0,0.0,Hours,Hours,Bead
+BA17006,72.0,0.0,Hours,Hours,Bead
+BA17007,72.0,0.0,Hours,Hours,Bead
+BA17008,72.0,0.0,Hours,Hours,Bead
+BA17009,72.0,0.0,Hours,Hours,Bead
+BA17010,72.0,0.0,Hours,Hours,Bead
+BA17011,72.0,0.0,Hours,Hours,Bead
+BA17012,72.0,0.0,Hours,Hours,Bead
+BA17013,72.0,0.0,Hours,Hours,Bead
+BA17017,72.0,0.0,Hours,Hours,Bead
+BA18001,72.0,0.0,Hours,Hours,Bead
+BA18002,72.0,0.0,Hours,Hours,Bead
+BA18003,72.0,0.0,Hours,Hours,Bead
+BA18004,72.0,0.0,Hours,Hours,Bead
+BA18005,72.0,0.0,Hours,Hours,Bead
+BA18006,72.0,0.0,Hours,Hours,Bead
+BA18007,72.0,0.0,Hours,Hours,Bead
+BA18008,72.0,0.0,Hours,Hours,Bead
+BA18009,72.0,0.0,Hours,Hours,Bead
+BA18010,72.0,0.0,Hours,Hours,Bead
+BA19001,72.0,0.0,Hours,Hours,Bead
+BA19002,72.0,0.0,Hours,Hours,Bead
+BA20001,72.0,0.0,Hours,Hours,Bead
+BCFT001,,,,,Cutting
+BCFT002,,,,,Cutting
+BCFT003,,,,,Cutting
+BCFT004,,,,,Cutting
+BCFT005,,,,,Cutting
+BCFT006,,,,,Cutting
+BDIN112845AP0011T1,72.0,0.0,Hours,Hours,Bead
+BDIN120955AP0007,72.0,0.0,Hours,Hours,Bead
+BDIN120955AP0011,72.0,0.0,Hours,Hours,Bead
+BDIN129666,,,,,Bead
+BDIN96744,,,,,Bead
+BDIN96744AP0018,72.0,0.0,Hours,Hours,Bead
+BEF001,24.0,0.0,Hours,Hours,Slitting
+BI-MONO001,,,,,Cutting
+BI-MONO002,,,,,Cutting
+BRTTL,72.0,4.0,Hours,Hours,Calendering
+BRTTL SLT,,,,,Slitting
+BRTTL-A,,,,,Cutting
+BW12001,,,,,Bead
+BW12002,,,,,Bead
+BW13001,,,,,Bead
+BW13002,,,,,Bead
+BW13003,,,,,Bead
+BW13004,,,,,Bead
+BW14001,,,,,Bead
+BW14002,,,,,Bead
+BW14003,,,,,Bead
+BW14004,,,,,Bead
+BW14005,,,,,Bead
+BW14006,,,,,Bead
+BW14007,,,,,Bead
+BW15001,,,,,Bead
+BW15002,,,,,Bead
+BW15003,,,,,Bead
+BW15004,,,,,Bead
+BW15005,,,,,Bead
+BW15006,,,,,Bead
+BW15007,,,,,Bead
+BW15008,,,,,Bead
+BW15009,,,,,Bead
+BW15010,,,,,Bead
+BW15012,,,,,Bead
+BW16001,,,,,Bead
+BW16002,,,,,Bead
+BW16003,,,,,Bead
+BW16004,,,,,Bead
+BW16005,,,,,Bead
+BW16006,,,,,Bead
+BW16007,,,,,Bead
+BW16008,,,,,Bead
+BW16009,,,,,Bead
+BW16010,,,,,Bead
+BW17001,,,,,Bead
+BW17002,,,,,Bead
+BW17003,,,,,Bead
+BW17004,,,,,Bead
+BW17005,,,,,Bead
+BW17006,,,,,Bead
+BW17007,,,,,Bead
+BW17008,,,,,Bead
+BW17009,,,,,Bead
+BW17010,,,,,Bead
+BW18001,,,,,Bead
+BW18002,,,,,Bead
+BW18003,,,,,Bead
+BW18004,,,,,Bead
+BW18005,,,,,Bead
+BW18006,,,,,Bead
+BW19001,,,,,Bead
+BW19002,,,,,Bead
+BW20001,,,,,Bead
+CAP 66,24.0,0.0,Hours,Hours,Calendering
+CAP STRIP 28,72.0,4.0,Hours,Hours,Calendering
+CAP30,72.0,4.0,Hours,Hours,Calendering
+CAR 1402 XPC TATA,,,,,Building
+CAR 1412 XPC MM,,,,,Building
+CAR 1422 MAX,,,,,Building
+CAR 1432 NXT,,,,,Building
+CAR 1442 UHL,,,,,Building
+CAR 1452 XPC MM,,,,,Building
+CAR 1453 MAX,,,,,Building
+CAR 1462 NXT,,,,,Building
+CAR 1472 NXT,,,,,Building
+CAR 1482 NXT,,,,,Building
+CAR 1482 UHL,,,,,Building
+CAR 1483 UHL,,,,,Building
+CAR 1492 NEO,,,,,Building
+CAR 1492 UHL,,,,,Building
+CAR 1502 XPC1,,,,,Building
+CAR 1503 NEO MSIL,,,,,Building
+CAR 1512 XPC1,,,,,Building
+CAR 1513 NEO,,,,,Building
+CAR 1513 XPC1 MSIL,,,,,Building
+CAR 1523 UHL,,,,,Building
+CAR 1533 NEO TATA,,,,,Building
+CAR 1543 NEO,,,,,Building
+CAR 1543 XPC1,,,,,Building
+CAR 1553 MAX,,,,,Building
+CAR 1564 NEO,,,,,Building
+CAR 1583 NEO TATA,,,,,Building
+CAR 1583 VEC NISSA,,,,,Building
+CAR 1593 NEO,,,,,Building
+CAR 1593 NEO TATA,,,,,Building
+CAR 1604 UXT,,,,,Building
+CAR 1614 XPC NISSA,,,,,Building
+CAR 1623 UHL,,,,,Building
+CAR 1624 XPC,,,,,Building
+CAR 1634 XPC TATA,,,,,Building
+CAR 1644 MAX,,,,,Building
+CAR 1654 EZO TOU,,,,,Building
+CAR 1654 UXT,,,,,Building
+CAR 1664 SPT,,,,,Building
+CAR 1672 SPT,,,,,Building
+CAR 1673 NEO,,,,,Building
+CAR 1674 MAX,,,,,Building
+CAR 1684 ROYL,,,,,Building
+CAR 1684 SPT,,,,,Building
+CAR 1684 TOR MARUT,,,,,Building
+CAR 1685 XPC,,,,,Building
+CAR 1694 UXT,,,,,Building
+CAR 1713 NEO EXP,,,,,Building
+CAR 1714 XPC GM,,,,,Building
+CAR 1724 UXT,,,,,Building
+CAR 1754 VEC TL,,,,,Building
+CAR 1765 ROYL,,,,,Building
+CAR 1772 NEO,,,,,Building
+CAR 1773 NEO,,,,,Building
+CAR 1774 VEC,,,,,Building
+CAR 1784 VEC,,,,,Building
+CAR 1804 XPC TT,,,,,Building
+CAR 1805 VEC,,,,,Building
+CAR 1814 XPC,,,,,Building
+CAR 1816 RAN BRT,,,,,Building
+CAR 1824 XPC1,,,,,Building
+CAR 1825 UXT,,,,,Building
+CAR 1834 VEC EXP,,,,,Building
+CAR 1835 UXT,,,,,Building
+CAR 1844 UXT,,,,,Building
+CAR 1844 VEC NISSA,,,,,Building
+CAR 1844 XPC TML,,,,,Building
+CAR 1854 ROYL,,,,,Building
+CAR 1854 XPC TT,,,,,Building
+CAR 1855 ROYL HYU,,,,,Building
+CAR 1856 ROYL,,,,,Building
+CAR 1864 SPT,,,,,Building
+CAR 1865 ROYL RENO,,,,,Building
+CAR 1873 NEO,,,,,Building
+CAR 1874 VEC MM,,,,,Building
+CAR 1875 ALP,,,,,Building
+CAR 1884 ROYL,,,,,Building
+CAR 1885 MAX,,,,,Building
+CAR 1886 BRU MM,,,,,Building
+CAR 1894 MAX,,,,,Building
+CAR 1895 MAX,,,,,Building
+CAR 1905 XPC1,,,,,Building
+CAR 1914 XPC1,,,,,Building
+CAR 1915 LT XPC1,,,,,Building
+CAR 1916 ROYL,,,,,Building
+CAR 1924 XPC1,,,,,Building
+CAR 1925 XPC1,,,,,Building
+CAR 1935 UX1 EXP,,,,,Building
+CAR 1936 ROYL,,,,,Building
+CAR 1945 ALP,,,,,Building
+CAR 1946 ROYL,,,,,Building
+CAR 1955 UX1,,,,,Building
+CAR 1956 BLA HPE,,,,,Building
+CAR 1956 UXT,,,,,Building
+CAR 1956 VEC,,,,,Building
+CAR 1964 SPT,,,,,Building
+CAR 1965 ROYL,,,,,Building
+CAR 1965 UX1,,,,,Building
+CAR 1966 RAN HPE,,,,,Building
+CAR 1975 UX1 EXP,,,,,Building
+CAR 1985 ROYL,,,,,Building
+CAR 1985 UX1 XL,,,,,Building
+CAR 1995 ROYL KIA,,,,,Building
+CAR 2015 RAN ATW,,,,,Building
+CAR 2016 RAN ATW,,,,,Building
+CAR 2017 RAN HTW,,,,,Building
+CAR 2025 UX1 EXP,,,,,Building
+CAR 2026 UX1 EXP,,,,,Building
+CAR 2035 EZO TOU,,,,,Building
+CAR 2045 BLA HT,,,,,Building
+CAR 2046 ROYL,,,,,Building
+CAR 2047 ROYL HYU,,,,,Building
+CAR 2055 RAN HT,,,,,Building
+CAR 2056 ROYL,,,,,Building
+CAR 2056 UX1,,,,,Building
+CAR 2057 UX1,,,,,Building
+CAR 2065 UX1,,,,,Building
+CAR 2066 MAX,,,,,Building
+CAR 2075 RAN AT,,,,,Building
+CAR 2076 RAN HT,,,,,Building
+CAR 2096 UXT,,,,,Building
+CAR 2115 RAN HTW,,,,,Building
+CAR 2116 ROYL HYU,,,,,Building
+CAR 2117 RAN HTW,,,,,Building
+CAR 2125 RAN AT,,,,,Building
+CAR 2126 ROYL,,,,,Building
+CAR 2155 BRU,,,,,Building
+CAR 2156 BLA HT,,,,,Building
+CAR 2157 RAN HPE,,,,,Building
+CAR 2157 ROYL KIA,,,,,Building
+CAR 2157 UX1,,,,,Building
+CAR 2158 RAN HT,,,,,Building
+CAR 2158 ROYL HYU,,,,,Building
+CAR 2166 BLA HT,,,,,Building
+CAR 2166 RAN HPE,,,,,Building
+CAR 2167 RAN HPE,,,,,Building
+CAR 2167 RAN HT,,,,,Building
+CAR 2175 RAN HT,,,,,Building
+CAR 2176 RAN HT,,,,,Building
+CAR 2177 RAN HT,,,,,Building
+CAR 2216 RAN HT,,,,,Building
+CAR 2217 UX1,,,,,Building
+CAR 2226 LEVI,,,,,Building
+CAR 2227 UX1 EXP,,,,,Building
+CAR 2237 ROYL,,,,,Building
+CAR 2247 LEVI,,,,,Building
+CAR 2256 ROYL,,,,,Building
+CAR 2257 UX1,,,,,Building
+CAR 2258 RAN HPE,,,,,Building
+CAR 2266 RAN HT,,,,,Building
+CAR 2267 ROYL HYU,,,,,Building
+CAR 2267 ROYL PG,,,,,Building
+CAR 2268 UX1,,,,,Building
+CAR 2275 RAN A/T,,,,,Building
+CAR 2276 RAN HT,,,,,Building
+CAR 2277 RAN HT,,,,,Building
+CAR 2287 LEVI,,,,,Building
+CAR 2335 BLA XAT,,,,,Building
+CAR 2337 BLA HT,,,,,Building
+CAR 2338 EZO TOU,,,,,Building
+CAR 2348 UX1,,,,,Building
+CAR 2355 BRU,,,,,Building
+CAR 2356 BLA HT,,,,,Building
+CAR 2357 UX1,,,,,Building
+CAR 2366 ROYL,,,,,Building
+CAR 2367 RAN HT,,,,,Building
+CAR 2367 RAN XATW,,,,,Building
+CAR 2368 EZO TOU,,,,,Building
+CAR 2368 RAN HT,,,,,Building
+CAR 2375 RAN HT,,,,,Building
+CAR 2375 RAN MT,,,,,Building
+CAR 2408 UX1,,,,,Building
+CAR 2417 UX1,,,,,Building
+CAR 2428 LEVI,,,,,Building
+CAR 2447 LEVI,,,,,Building
+CAR 2448 UX1,,,,,Building
+CAR 2455 RAN A/T,,,,,Building
+CAR 2457 LEVI,,,,,Building
+CAR 2458 RAN HPE,,,,,Building
+CAR 2476 RAN HT2,,,,,Building
+CAR 2476 RAN MT,,,,,Building
+CAR 2476 SUP MM,,,,,Building
+CAR 2506 BLA HT,,,,,Building
+CAR 2516 ROYL,,,,,Building
+CAR 2526 ROYL,,,,,Building
+CAR 2526 ROYL PG,,,,,Building
+CAR 2549 LEVI,,,,,Building
+CAR 2556 ROYL,,,,,Building
+CAR 2557 HPE KIA,,,,,Building
+CAR 2557 UX1 EXP,,,,,Building
+CAR 2565 UXT,,,,,Building
+CAR 2567 EZO TOU,,,,,Building
+CAR 2568 RAN AT,,,,,Building
+CAR 2568 RAN ATB,,,,,Building
+CAR 2568 RAN HT2,72.0,2.0,Hours,Hours,Building
+CAR 2568 RAN HTP,,,,,Building
+CAR 2569 RAN AT,,,,,Building
+CAR 2575 RAN A/T,,,,,Building
+CAR 2576 EZO TATA,,,,,Building
+CAR 2616 BLA HT,,,,,Building
+CAR 2617 RAN XAT,,,,,Building
+CAR 2618 RAN ATB,,,,,Building
+CAR 2627 RAN HT,,,,,Building
+CAR 2656 BLA HT,,,,,Building
+CAR 2657 BLA HT,,,,,Building
+CAR 2657 RAN HT,,,,,Building
+CAR 2657 RAN XATW,,,,,Building
+CAR 2658 RAN HTP,,,,,Building
+CAR 2658 RAN XAT,,,,,Building
+CAR 2666 RAN HT,,,,,Building
+CAR 2667 RAN HT,,,,,Building
+CAR 2667 RAN HT PG,,,,,Building
+CAR 2668 RAN HTP,,,,,Building
+CAR 2668 RAN XATW,,,,,Building
+CAR 2676 RAN HT,,,,,Building
+CAR 2676 RAN MT,,,,,Building
+CAR 2677 RAN MT,,,,,Building
+CAR 2716 BLA HT,,,,,Building
+CAR 2737 LEVI,,,,,Building
+CAR 2755 BLA HT,,,,,Building
+CAR 2755 RAN BRT,,,,,Building
+CAR 2756 RAN HT,,,,,Building
+CAR 2775 RAN XAT,,,,,Building
+CAR 2776 RAN AT,,,,,Building
+CAR 2777 BLA HT,,,,,Building
+CAR 2856 RAN MT,,,,,Building
+CAR 3005 BLA XAT,,,,,Building
+CAR 3105 RAN XAT,,,,,Building
+CAR 3115 RAN,,,,,Building
+CAR 3125 RAN MT,,,,,Building
+CAR 3205 RAN XAT,,,,,Building
+CAR 3215 BLA XAT,,,,,Building
+CAR SUS 1765 ROYL,,,,,Building
+CAR SUS 2156 ROYL,,,,,Building
+CAR T1457 STAR,,,,,Building
+CAR1458012NXTTL,,,,,Building
+CAR1458012NXTTT,,,,,Building
+CAR1658014TNDTL,,,,,Building
+CAR1856515VECTL2S,,,,,Building
+CAR2157515BRTLT,,,,,Building
+CP 200,72.0,4.0,Hours,Hours,Calendering
+CP31151,72.0,4.0,Hours,Hours,Calendering
+CP56542,72.0,4.0,Hours,Hours,Calendering
+CPJ114,72.0,4.0,Hours,Hours,Calendering
+CPJ120,72.0,4.0,Hours,Hours,Calendering
+CPJ121,72.0,4.0,Hours,Hours,Calendering
+CPJ1218,72.0,4.0,Hours,Hours,Calendering
+CPJ370,72.0,4.0,Hours,Hours,Calendering
+CWBHI34,72.0,4.0,Hours,Hours,Calendering
+CWBHT34S564,72.0,4.0,Hours,Hours,Calendering
+CWBHT40S564,72.0,4.0,Hours,Hours,Calendering
+CWBHTCP100,72.0,4.0,Hours,Hours,Calendering
+CWBHTCP51,72.0,4.0,Hours,Hours,Calendering
+CWBP60,72.0,4.0,Hours,Hours,Calendering
+CWBP65,72.0,4.0,Hours,Hours,Calendering
+CWCH30256,72.0,4.0,Hours,Hours,Calendering
+ECOPOLY-EFA,72.0,4.0,Hours,Hours,Calendering
+ECOPOLY1500,72.0,4.0,Hours,Hours,Calendering
+ECOPOLY350,72.0,4.0,Hours,Hours,Calendering
+EFA,120.0,4.0,Hours,Hours,Final Mixing
+EFAFC,,,,,Final Mixing
+EFM,360.0,4.0,Hours,Hours,Mixing
+EFMMC,,,,,Mixing
+EG01,24.0,0.0,Hours,Hours,Calendering
+EG02,24.0,0.0,Hours,Hours,Calendering
+EG03,24.0,0.0,Hours,Hours,Calendering
+EG1.6MM,72.0,6.0,Hours,Hours,Calendering
+EGSL01,24.0,0.0,Hours,Hours,Slitting
+EGSL02,24.0,0.0,Hours,Hours,Slitting
+EGSL03,24.0,0.0,Hours,Hours,Calendering
+EHT1000,72.0,4.0,Hours,Hours,Calendering
+EM100,360.0,4.0,Hours,Hours,Master Mixing
+EM100MC,,,,,Mixing
+EM101,360.0,4.0,Hours,Hours,Master Mixing
+EM102,360.0,4.0,Hours,Hours,Master Mixing
+EM102MC,,,,,Mixing
+EM12,360.0,4.0,Hours,Hours,Master Mixing
+EM12MC,,,,,Mixing
+EM1404,360.0,4.0,Hours,Hours,Master Mixing
+EM151G,360.0,4.0,Hours,Hours,Master Mixing
+EM151GMC,,,,,Mixing
+EM17,360.0,4.0,Hours,Hours,Master Mixing
+EM173,360.0,4.0,Hours,Hours,Master Mixing
+EM173MC,,,,,Mixing
+EM174,360.0,4.0,Hours,Hours,Master Mixing
+EM17AMC,,,,,Mixing
+EM17BMC,,,,,Mixing
+EM183,360.0,4.0,Hours,Hours,Master Mixing
+EM184,360.0,4.0,Hours,Hours,Master Mixing
+EM184MC,,,,,Mixing
+EM185,360.0,4.0,Hours,Hours,Master Mixing
+EM185AMC,,,,,Mixing
+EM185BMC,,,,,Mixing
+EM200,360.0,4.0,Hours,Hours,Master Mixing
+EM2051,360.0,4.0,Hours,Hours,Master Mixing
+EM2051AMC,,,,,Mixing
+EM2051BMC,,,,,Mixing
+EM24,360.0,4.0,Hours,Hours,Master Mixing
+EM24MC,,,,,Mixing
+EM251G,360.0,4.0,Hours,Hours,Master Mixing
+EM251GMC,,,,,Mixing
+EM33,360.0,4.0,Hours,Hours,Master Mixing
+EM331,360.0,4.0,Hours,Hours,Master Mixing
+EM331MC,,,,,Mixing
+EM332,360.0,4.0,Hours,Hours,Master Mixing
+EM332MC,,,,,Mixing
+EM33MC,,,,,Mixing
+EM4023,360.0,4.0,Hours,Hours,Master Mixing
+EM4023AMC,,,,,Mixing
+EM4023BMC,,,,,Mixing
+EM4024,360.0,4.0,Hours,Hours,Master Mixing
+EM4024MC,,,,,Mixing
+EM441,360.0,4.0,Hours,Hours,Master Mixing
+EM441MC,,,,,Mixing
+EM49,360.0,4.0,Hours,Hours,Master Mixing
+EM492,360.0,4.0,Hours,Hours,Master Mixing
+EM492MC,,,,,Mixing
+EM49AMC,,,,,Mixing
+EM49BMC,,,,,Mixing
+EM540,360.0,4.0,Hours,Hours,Master Mixing
+EM540MC,,,,,Mixing
+EM5717,360.0,4.0,Hours,Hours,Master Mixing
+EM5717MC,,,,,Mixing
+EM6,360.0,4.0,Hours,Hours,Master Mixing
+EM603,360.0,4.0,Hours,Hours,Master Mixing
+EM603AMC,,,,,Mixing
+EM603BMC,,,,,Mixing
+EM62,360.0,4.0,Hours,Hours,Master Mixing
+EM627,360.0,4.0,Hours,Hours,Master Mixing
+EM627MC,,,,,Mixing
+EM62MC,,,,,Mixing
+EM63,360.0,4.0,Hours,Hours,Master Mixing
+EM637,360.0,4.0,Hours,Hours,Master Mixing
+EM637AMC,,,,,Mixing
+EM637BMC,,,,,Mixing
+EM6381,360.0,4.0,Hours,Hours,Master Mixing
+EM6381MC,,,,,Mixing
+EM6MC,,,,,Mixing
+EM70,360.0,4.0,Hours,Hours,Master Mixing
+EM702,360.0,4.0,Hours,Hours,Master Mixing
+EM702MC,,,,,Mixing
+EM70AMC,,,,,Mixing
+EM70BMC,,,,,Mixing
+EM712,360.0,4.0,Hours,Hours,Master Mixing
+EM712MC,,,,,Mixing
+EM713,360.0,4.0,Hours,Hours,Master Mixing
+EM713MC,,,,,Mixing
+EM8,360.0,4.0,Hours,Hours,Master Mixing
+EM812,360.0,4.0,Hours,Hours,Master Mixing
+EM812MC,,,,,Mixing
+EM8MC,,,,,Mixing
+EM94,360.0,4.0,Hours,Hours,Master Mixing
+EM94MC,,,,,Mixing
+EMR48,360.0,4.0,Hours,Hours,Master Mixing
+EMR48MC,,,,,Mixing
+EMR494,360.0,4.0,Hours,Hours,Master Mixing
+EMR494MC,,,,,Mixing
+EMR495,360.0,4.0,Hours,Hours,Master Mixing
+EMR496,360.0,4.0,Hours,Hours,Master Mixing
+EMR56,360.0,4.0,Hours,Hours,Master Mixing
+EMR5MC,,,,,Mixing
+EMR60,360.0,4.0,Hours,Hours,Master Mixing
+EU034HI,72.0,4.0,Hours,Hours,Calendering
+EU1031,120.0,4.0,Hours,Hours,Final Mixing
+EU1031FC,,,,,Mixing
+EU107,120.0,4.0,Hours,Hours,Final Mixing
+EU107FC,,,,,Mixing
+EU1133,120.0,4.0,Hours,Hours,Final Mixing
+EU1133FC,,,,,Mixing
+EU1144,120.0,4.0,Hours,Hours,Final Mixing
+EU176,120.0,4.0,Hours,Hours,Final Mixing
+EU176FC,,,,,Mixing
+EU186,120.0,4.0,Hours,Hours,Final Mixing
+EU186FC,,,,,Mixing
+EU2054,120.0,4.0,Hours,Hours,Final Mixing
+EU2054FC,,,,,Mixing
+EU31151,72.0,4.0,Hours,Hours,Calendering
+EU333,120.0,4.0,Hours,Hours,Final Mixing
+EU333FC,,,,,Mixing
+EU3427FC,,,,,Mixing
+EU4026,120.0,4.0,Hours,Hours,Final Mixing
+EU4026FC,,,,,Mixing
+EU4923,120.0,4.0,Hours,Hours,Final Mixing
+EU4923FC,,,,,Mixing
+EU4965FC,,,,,Mixing
+EU500,72.0,4.0,Hours,Hours,Calendering
+EU5245,120.0,4.0,Hours,Hours,Final Mixing
+EU5245FC,,,,,Mixing
+EU5542,120.0,4.0,Hours,Hours,Final Mixing
+EU5542FC,,,,,Mixing
+EU5606,120.0,4.0,Hours,Hours,Final Mixing
+EU5606FC,,,,,Mixing
+EU56542,72.0,4.0,Hours,Hours,Calendering
+EU5720FC,,,,,Mixing
+EU606,120.0,4.0,Hours,Hours,Final Mixing
+EU606FC,,,,,Mixing
+EU635,120.0,4.0,Hours,Hours,Final Mixing
+EU635FC,,,,,Mixing
+EU638,120.0,4.0,Hours,Hours,Final Mixing
+EU638FC,,,,,Mixing
+EU639,120.0,4.0,Hours,Hours,Final Mixing
+EU650,72.0,4.0,Hours,Hours,Calendering
+EU6629,120.0,4.0,Hours,Hours,Final Mixing
+EU6629FC,,,,,Mixing
+EU700,72.0,4.0,Hours,Hours,Calendering
+EU71,120.0,4.0,Hours,Hours,Final Mixing
+EU714,120.0,4.0,Hours,Hours,Final Mixing
+EU714FC,,,,,Mixing
+EU715,120.0,4.0,Hours,Hours,Final Mixing
+EU71FC,,,,,Mixing
+EU8246,,,,,Mixing
+EU8246FC,,,,,Mixing
+EU9496,120.0,4.0,Hours,Hours,Final Mixing
+EU9496FC,,,,,Mixing
+EU96,120.0,4.0,Hours,Hours,Final Mixing
+EU96FC,,,,,Mixing
+EU99,120.0,4.0,Hours,Hours,Final Mixing
+EU99FC,,,,,Mixing
+EUB1-TBLT603,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT606,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT607,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT608,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT609,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT610,24.0,0.0,Hours,Hours,Cutting
+EUB1-TBLT611,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT609,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT610,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT611,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT612,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT613,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT614,24.0,0.0,Hours,Hours,Cutting
+EUB2-TBLT617,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT608,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT609,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT610,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT611,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT612,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT613,24.0,0.0,Hours,Hours,Cutting
+EUB3-TBLT616,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT602,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT603,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT607,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT608,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT610,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT611,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT613,24.0,0.0,Hours,Hours,Cutting
+EUB4-TBLT614,24.0,0.0,Hours,Hours,Cutting
+EUBCFT601,,,,,Cutting
+EUBCFT603,,,,,Cutting
+EUBCFT604,,,,,Cutting
+EUBEF601,24.0,0.0,Hours,Hours,Slitting
+EUBRTTL,72.0,4.0,Hours,Hours,Calendering
+EUGUM STRIP,24.0,0.0,Hours,Hours,Slitting
+EUL-STC604,24.0,0.0,Hours,Hours,Cutting
+EUL-STC606,24.0,0.0,Hours,Hours,Cutting
+EUR-STC604,24.0,0.0,Hours,Hours,Cutting
+EUR-STC606,24.0,0.0,Hours,Hours,Cutting
+EUSNCT601,,,,,Slitting
+EUSNCT602,,,,,Slitting
+EUSNCT603,,,,,Slitting
+EUSQ-608,72.0,6.0,Hours,Hours,Calendering
+EUSQ-609,72.0,6.0,Hours,Hours,Calendering
+EUSQ-610,72.0,6.0,Hours,Hours,Calendering
+EUSQ-612,72.0,6.0,Hours,Hours,Calendering
+EUSQ-613,72.0,6.0,Hours,Hours,Calendering
+EUSQ-614,72.0,6.0,Hours,Hours,Calendering
+EUSQ-615,72.0,6.0,Hours,Hours,Calendering
+EUSQ-616,72.0,6.0,Hours,Hours,Calendering
+EUSQ-617,72.0,6.0,Hours,Hours,Calendering
+EUSQ-619,72.0,6.0,Hours,Hours,Calendering
+EUSTC-WRAP,,,,,Slitting
+EUTB BELT WRAP,24.0,0.0,Hours,Hours,Slitting
+EUTBAPBD606,72.0,0.0,Hours,Hours,Bead
+EUTBAPBD607,72.0,0.0,Hours,Hours,Bead
+EUTBAPBD608,72.0,0.0,Hours,Hours,Bead
+EUTBAPBD609,72.0,0.0,Hours,Hours,Bead
+EUTBAPBD610,72.0,0.0,Hours,Hours,Bead
+EUTBP610,24.0,0.0,Hours,Hours,Calendering
+EUTBP612,24.0,0.0,Hours,Hours,Calendering
+EUTBP613,24.0,0.0,Hours,Hours,Calendering
+EUTBP614,24.0,0.0,Hours,Hours,Calendering
+EUTBP616,24.0,0.0,Hours,Hours,Calendering
+EUTBP617,24.0,0.0,Hours,Hours,Calendering
+EUTBP618,24.0,0.0,Hours,Hours,Calendering
+EUTBP619,24.0,0.0,Hours,Hours,Calendering
+EUTBP620,24.0,0.0,Hours,Hours,Calendering
+EUTBP621,24.0,0.0,Hours,Hours,Calendering
+EUTBP623,24.0,0.0,Hours,Hours,Calendering
+EUTBP630,24.0,0.0,Hours,Hours,Calendering
+EUTBP631,24.0,0.0,Hours,Hours,Calendering
+EUTBP636,24.0,0.0,Hours,Hours,Calendering
+EUTBPGUM,24.0,0.0,Hours,Hours,Slitting
+EUTEG-01,24.0,0.0,Hours,Hours,Slitting
+EUTEG-02,24.0,0.0,Hours,Hours,Slitting
+EUTEG-03,24.0,0.0,Hours,Hours,Slitting
+EUTIL-608,72.0,6.0,Hours,Hours,Calendering
+EUTIL-609,72.0,6.0,Hours,Hours,Calendering
+EUTIL-610,72.0,6.0,Hours,Hours,Calendering
+EUTIL-612,72.0,6.0,Hours,Hours,Calendering
+EUTIL-613,72.0,6.0,Hours,Hours,Calendering
+EUTIL-614,72.0,6.0,Hours,Hours,Calendering
+EUTIL-615,72.0,6.0,Hours,Hours,Calendering
+EUTIL-616,72.0,6.0,Hours,Hours,Calendering
+EUTIL-617,72.0,6.0,Hours,Hours,Calendering
+EUTIL-619,72.0,6.0,Hours,Hours,Calendering
+EUTSW-606,72.0,2.0,Hours,Hours,Extrusion
+EUTSW-607,72.0,2.0,Hours,Hours,Extrusion
+EUTSW-608,72.0,2.0,Hours,Hours,Extrusion
+EUTSW-611,72.0,2.0,Hours,Hours,Extrusion
+EUTSW-613,72.0,2.0,Hours,Hours,Extrusion
+EUTSW-614,72.0,2.0,Hours,Hours,Extrusion
+EXM103,360.0,4.0,Hours,Hours,Master Mixing
+EXM103MC,,,,,Mixing
+EXM175,360.0,4.0,Hours,Hours,Master Mixing
+EXM175MC,,,,,Mixing
+EXM2052,360.0,4.0,Hours,Hours,Master Mixing
+EXM2053,360.0,4.0,Hours,Hours,Master Mixing
+EXM244,360.0,4.0,Hours,Hours,Master Mixing
+EXM245,360.0,4.0,Hours,Hours,Master Mixing
+EXM34,360.0,4.0,Hours,Hours,Master Mixing
+EXM351G,360.0,4.0,Hours,Hours,Master Mixing
+EXM351GMC,,,,,Mixing
+EXM4025,360.0,4.0,Hours,Hours,Master Mixing
+EXM441,,,,,Mixing
+EXM493,360.0,4.0,Hours,Hours,Master Mixing
+EXM493RP1,360.0,4.0,Hours,Hours,Master Mixing
+EXM541,360.0,4.0,Hours,Hours,Master Mixing
+EXM544,360.0,4.0,Hours,Hours,Master Mixing
+EXM5718,360.0,4.0,Hours,Hours,Master Mixing
+EXM5719,360.0,4.0,Hours,Hours,Master Mixing
+EXM604,360.0,4.0,Hours,Hours,Master Mixing
+EXM6628,360.0,4.0,Hours,Hours,Master Mixing
+EXM714,360.0,4.0,Hours,Hours,Master Mixing
+EXM714MC,,,,,Mixing
+EXM834,360.0,4.0,Hours,Hours,Master Mixing
+EXM95,360.0,4.0,Hours,Hours,Master Mixing
+EXM95MC,,,,,Mixing
+EXM98,360.0,4.0,Hours,Hours,Master Mixing
+EXM98MC,,,,,Mixing
+FILLIPER2,,,,,Slitting
+FLATB12707,24.0,0.0,Hours,Hours,Slitting
+GB12,120.0,4.0,Hours,Hours,Final Mixing
+GB1218,72.0,4.0,Hours,Hours,Calendering
+GB12FC,,,,,Mixing
+GB30,120.0,4.0,Hours,Hours,Final Mixing
+GB30FC,,,,,Mixing
+GB35,120.0,4.0,Hours,Hours,Final Mixing
+GB35FC,,,,,Mixing
+GB37,120.0,4.0,Hours,Hours,Final Mixing
+GB37FC,,,,,Mixing
+GB46FC,,,,,Mixing
+GB58,120.0,4.0,Hours,Hours,Final Mixing
+GB58FC,,,,,Mixing
+GB61,120.0,4.0,Hours,Hours,Final Mixing
+GB61FC,,,,,Mixing
+GB81,120.0,4.0,Hours,Hours,Final Mixing
+GB81FC,,,,,Mixing
+GBCAP20,72.0,4.0,Hours,Hours,Calendering
+GBPOLY,72.0,4.0,Hours,Hours,Calendering
+GH10,120.0,4.0,Hours,Hours,Final Mixing
+GH10FC,,,,,Mixing
+GL6,120.0,4.0,Hours,Hours,Final Mixing
+GL6FC,,,,,Mixing
+GR12,120.0,4.0,Hours,Hours,Final Mixing
+GR12FC,,,,,Mixing
+GR59,120.0,4.0,Hours,Hours,Final Mixing
+GR59FC,,,,,Mixing
+GS44,120.0,4.0,Hours,Hours,Final Mixing
+GS44FC,,,,,Mixing
+GS46,120.0,4.0,Hours,Hours,Final Mixing
+GS46FC,,,,,Mixing
+GT18,120.0,4.0,Hours,Hours,Final Mixing
+GT18FC,,,,,Mixing
+GT43,120.0,4.0,Hours,Hours,Final Mixing
+GT43FC,,,,,Mixing
+GT55,120.0,4.0,Hours,Hours,Final Mixing
+GT55FC,,,,,Mixing
+GT72,120.0,4.0,Hours,Hours,Final Mixing
+GT72FC,,,,,Mixing
+GT85,120.0,4.0,Hours,Hours,Final Mixing
+GT85FC,,,,,Mixing
+GUM STRIP,24.0,0.0,Hours,Hours,Calendering
+HIRAD,72.0,4.0,Hours,Hours,Calendering
+HS106,120.0,4.0,Hours,Hours,Final Mixing
+HS106FC,,,,,Final Mixing
+HS108,120.0,4.0,Hours,Hours,Final Mixing
+HS108FC,,,,,Mixing
+HS111FC,,,,,Mixing
+HSA305,120.0,4.0,Hours,Hours,Final Mixing
+HSA305FC,,,,,Final Mixing
+HSM305,360.0,4.0,Hours,Hours,Mixing
+HSM305AMC,,,,,Mixing
+HSM305BMC,,,,,Mixing
+HTPOLY1300,72.0,4.0,Hours,Hours,Calendering
+HTPOLY2000,72.0,4.0,Hours,Hours,Calendering
+HTPOLY350,72.0,4.0,Hours,Hours,Calendering
+IL 1462 NXT,72.0,6.0,Hours,Hours,Calendering
+IL 1482 NXT,72.0,6.0,Hours,Hours,Calendering
+IL 1684 TOR MARUTI,72.0,6.0,Hours,Hours,Calendering
+IL 1865 VEC NISSAN,72.0,6.0,Hours,Hours,Calendering
+IL 2155 BRU,72.0,6.0,Hours,Hours,Calendering
+IL001,72.0,6.0,Hours,Hours,Calendering
+IL002,72.0,6.0,Hours,Hours,Calendering
+IL003,72.0,6.0,Hours,Hours,Calendering
+IL004,72.0,6.0,Hours,Hours,Calendering
+IL005,72.0,6.0,Hours,Hours,Calendering
+IL006,72.0,6.0,Hours,Hours,Calendering
+IL007,72.0,6.0,Hours,Hours,Calendering
+IL008,72.0,6.0,Hours,Hours,Calendering
+IL009,72.0,6.0,Hours,Hours,Calendering
+IL010,72.0,6.0,Hours,Hours,Calendering
+IL011,72.0,6.0,Hours,Hours,Calendering
+IL012,72.0,6.0,Hours,Hours,Calendering
+IL013,72.0,6.0,Hours,Hours,Calendering
+IL014,72.0,6.0,Hours,Hours,Calendering
+IL015,72.0,6.0,Hours,Hours,Calendering
+IL016,72.0,6.0,Hours,Hours,Calendering
+IL017,72.0,6.0,Hours,Hours,Calendering
+IL018,72.0,6.0,Hours,Hours,Calendering
+IL019,72.0,6.0,Hours,Hours,Calendering
+IL020,72.0,6.0,Hours,Hours,Calendering
+IL021,72.0,6.0,Hours,Hours,Calendering
+IL022,72.0,6.0,Hours,Hours,Calendering
+IL023,72.0,6.0,Hours,Hours,Calendering
+IL024,72.0,6.0,Hours,Hours,Calendering
+IL025,72.0,6.0,Hours,Hours,Calendering
+IL026,72.0,6.0,Hours,Hours,Calendering
+IL027,72.0,6.0,Hours,Hours,Calendering
+IL028,72.0,6.0,Hours,Hours,Calendering
+IL029,72.0,6.0,Hours,Hours,Calendering
+IL030,72.0,6.0,Hours,Hours,Calendering
+IL031,72.0,6.0,Hours,Hours,Calendering
+IL032,72.0,6.0,Hours,Hours,Calendering
+IL033,72.0,6.0,Hours,Hours,Calendering
+IL034,72.0,6.0,Hours,Hours,Calendering
+IL035,72.0,6.0,Hours,Hours,Calendering
+IL036,72.0,6.0,Hours,Hours,Calendering
+IL037,72.0,6.0,Hours,Hours,Calendering
+IL038,72.0,6.0,Hours,Hours,Calendering
+IL039,72.0,6.0,Hours,Hours,Calendering
+IL040,72.0,6.0,Hours,Hours,Calendering
+IL041,72.0,6.0,Hours,Hours,Calendering
+IL042,72.0,6.0,Hours,Hours,Calendering
+IL043,72.0,6.0,Hours,Hours,Calendering
+IL044,72.0,6.0,Hours,Hours,Calendering
+IL045,72.0,6.0,Hours,Hours,Calendering
+IL046,72.0,6.0,Hours,Hours,Calendering
+IL047,72.0,6.0,Hours,Hours,Calendering
+IL048,72.0,6.0,Hours,Hours,Calendering
+IL049,72.0,6.0,Hours,Hours,Calendering
+IL050,72.0,6.0,Hours,Hours,Calendering
+IL051,72.0,6.0,Hours,Hours,Calendering
+IL052,72.0,6.0,Hours,Hours,Calendering
+IL053,72.0,6.0,Hours,Hours,Calendering
+IL054,72.0,6.0,Hours,Hours,Calendering
+IL055,72.0,6.0,Hours,Hours,Calendering
+IL056,72.0,6.0,Hours,Hours,Calendering
+IL057,72.0,6.0,Hours,Hours,Calendering
+IL058,72.0,6.0,Hours,Hours,Calendering
+IL059,72.0,6.0,Hours,Hours,Calendering
+IL060,72.0,6.0,Hours,Hours,Calendering
+IL061,72.0,6.0,Hours,Hours,Calendering
+IL062,72.0,6.0,Hours,Hours,Calendering
+IL063,72.0,6.0,Hours,Hours,Calendering
+IL064,72.0,6.0,Hours,Hours,Calendering
+IL065,72.0,6.0,Hours,Hours,Calendering
+IL066,72.0,6.0,Hours,Hours,Calendering
+IL067,72.0,6.0,Hours,Hours,Calendering
+IL068,72.0,6.0,Hours,Hours,Calendering
+IL069,72.0,6.0,Hours,Hours,Calendering
+IL070,72.0,6.0,Hours,Hours,Calendering
+IL074,72.0,6.0,Hours,Hours,Calendering
+IL075,72.0,6.0,Hours,Hours,Calendering
+IL077,72.0,6.0,Hours,Hours,Calendering
+IL078,72.0,6.0,Hours,Hours,Calendering
+IL079,72.0,6.0,Hours,Hours,Calendering
+IL080,72.0,6.0,Hours,Hours,Calendering
+IL081,72.0,6.0,Hours,Hours,Calendering
+IL082,72.0,6.0,Hours,Hours,Calendering
+IL083,72.0,6.0,Hours,Hours,Calendering
+IL084,72.0,6.0,Hours,Hours,Calendering
+IL085,72.0,6.0,Hours,Hours,Calendering
+IL086,72.0,6.0,Hours,Hours,Calendering
+IL087,72.0,6.0,Hours,Hours,Calendering
+IL088,72.0,6.0,Hours,Hours,Calendering
+IL089,72.0,6.0,Hours,Hours,Calendering
+IL090,72.0,6.0,Hours,Hours,Calendering
+IL091,72.0,6.0,Hours,Hours,Calendering
+IL092,72.0,6.0,Hours,Hours,Calendering
+IL093,72.0,6.0,Hours,Hours,Calendering
+IL094,72.0,6.0,Hours,Hours,Calendering
+IL095,72.0,6.0,Hours,Hours,Calendering
+IL3,120.0,4.0,Hours,Hours,Final Mixing
+IL3FC,,,,,Final Mixing
+IL5,120.0,4.0,Hours,Hours,Final Mixing
+IL5FC,,,,,Final Mixing
+JT444,120.0,4.0,Hours,Hours,Final Mixing
+JT444FC,,,,,Final Mixing
+JT466,120.0,4.0,Hours,Hours,Final Mixing
+JT466FC,,,,,Final Mixing
+JT488,120.0,4.0,Hours,Hours,Final Mixing
+JV06,120.0,4.0,Hours,Hours,Final Mixing
+JV06FC,,,,,Mixing
+L-STC001,24.0,0.0,Hours,Hours,Cutting
+L-STC002,24.0,0.0,Hours,Hours,Cutting
+L-STC003,24.0,0.0,Hours,Hours,Cutting
+L-STC004,24.0,0.0,Hours,Hours,Cutting
+L-STC006,24.0,0.0,Hours,Hours,Cutting
+L-STC007,24.0,0.0,Hours,Hours,Cutting
+M1GB12,360.0,4.0,Hours,Hours,Master Mixing
+M1GB12MC,,,,,Mixing
+M1GB30,360.0,4.0,Hours,Hours,Master Mixing
+M1GB30MC,,,,,Mixing
+M1GB35,360.0,4.0,Hours,Hours,Master Mixing
+M1GB35MC,,,,,Mixing
+M1GB37,360.0,4.0,Hours,Hours,Master Mixing
+M1GB37MC,,,,,Mixing
+M1GB58,360.0,4.0,Hours,Hours,Master Mixing
+M1GB58MC,,,,,Mixing
+M1GB61,360.0,4.0,Hours,Hours,Master Mixing
+M1GB61MC,,,,,Mixing
+M1GB80,360.0,4.0,Hours,Hours,Master Mixing
+M1GH10,360.0,4.0,Hours,Hours,Master Mixing
+M1GH10AMC,,,,,Mixing
+M1GH10BMC,,,,,Mixing
+M1GR12,360.0,4.0,Hours,Hours,Master Mixing
+M1GR12MC,,,,,Mixing
+M1GR59,360.0,4.0,Hours,Hours,Master Mixing
+M1GR59AMC,,,,,Mixing
+M1GR59BMC,,,,,Mixing
+M1GT55,360.0,4.0,Hours,Hours,Master Mixing
+M1GT55MC,,,,,Mixing
+M1GT72,360.0,4.0,Hours,Hours,Master Mixing
+M1GT72AMC,,,,,Mixing
+M1GT72BMC,,,,,Mixing
+M1GT83,360.0,4.0,Hours,Hours,Master Mixing
+M1GT83MC,,,,,Mixing
+M1PCRT15,360.0,4.0,Hours,Hours,Mixing
+M1PCRT15MC,,,,,Mixing
+M1PCRT2,360.0,4.0,Hours,Hours,Mixing
+M1PCRT2MC,,,,,Mixing
+M2GB12,360.0,4.0,Hours,Hours,Master Mixing
+M2GB30,360.0,4.0,Hours,Hours,Master Mixing
+M2GB35,360.0,4.0,Hours,Hours,Master Mixing
+M2GB37,360.0,4.0,Hours,Hours,Master Mixing
+M2GB37MC,,,,,Mixing
+M2GB58,360.0,4.0,Hours,Hours,Master Mixing
+M2GB58MC,,,,,Mixing
+M2GB80,360.0,4.0,Hours,Hours,Master Mixing
+M2GH10,360.0,4.0,Hours,Hours,Master Mixing
+M2GH10MC,,,,,Mixing
+M2GR12,360.0,4.0,Hours,Hours,Master Mixing
+M2GR12MC,,,,,Mixing
+M2GR59,360.0,4.0,Hours,Hours,Master Mixing
+M2GR59MC,,,,,Mixing
+M2GT55,360.0,4.0,Hours,Hours,Master Mixing
+M2GT55MC,,,,,Mixing
+M2GT72,360.0,4.0,Hours,Hours,Master Mixing
+M2GT84,360.0,4.0,Hours,Hours,Master Mixing
+M2MB58,360.0,4.0,Hours,Hours,Master Mixing
+M2MB58MC,,,,,Mixing
+M2PCRT15,360.0,4.0,Hours,Hours,Mixing
+M2PCRT15MC,,,,,Mixing
+M2PCRT2,360.0,4.0,Hours,Hours,Mixing
+M3GH10,360.0,4.0,Hours,Hours,Master Mixing
+M3GT84RP,360.0,4.0,Hours,Hours,Master Mixing
+M3MB59,360.0,4.0,Hours,Hours,Master Mixing
+M3MB59MC,,,,,Mixing
+M3XGB37,360.0,4.0,Hours,Hours,Master Mixing
+M4GH10,360.0,4.0,Hours,Hours,Master Mixing
+MA101,360.0,4.0,Hours,Hours,Master Mixing
+MA101MC,,,,,Mixing
+MA102,360.0,4.0,Hours,Hours,Master Mixing
+MA102MC,,,,,Mixing
+MA133,360.0,4.0,Hours,Hours,Master Mixing
+MA133MC,,,,,Mixing
+MA32,360.0,4.0,Hours,Hours,Master Mixing
+MA32MC,,,,,Mixing
+MA441,360.0,4.0,Hours,Hours,Master Mixing
+MA441MC,,,,,Mixing
+MA540,360.0,4.0,Hours,Hours,Master Mixing
+MA540MC,,,,,Mixing
+MB100,360.0,4.0,Hours,Hours,Master Mixing
+MB100MC,,,,,Mixing
+MB104,360.0,4.0,Hours,Hours,Mixing
+MB104MC,,,,,Mixing
+MB1164,360.0,4.0,Hours,Hours,Mixing
+MB1232,360.0,4.0,Hours,Hours,Mixing
+MB1232MC,,,,,Mixing
+MB151G,360.0,4.0,Hours,Hours,Master Mixing
+MB151GMC,,,,,Mixing
+MB163,360.0,4.0,Hours,Hours,Mixing
+MB163MC,,,,,Mixing
+MB164,360.0,4.0,Hours,Hours,Mixing
+MB173,360.0,4.0,Hours,Hours,Master Mixing
+MB173MC,,,,,Mixing
+MB174,360.0,4.0,Hours,Hours,Master Mixing
+MB1743,360.0,4.0,Hours,Hours,Master Mixing
+MB1743AMC,,,,,Mixing
+MB1743BMC,,,,,Mixing
+MB183,360.0,4.0,Hours,Hours,Mixing
+MB184,360.0,4.0,Hours,Hours,Mixing
+MB184MC,,,,,Mixing
+MB185,360.0,4.0,Hours,Hours,Mixing
+MB185AMC,,,,,Mixing
+MB185BMC,,,,,Mixing
+MB192,360.0,4.0,Hours,Hours,Master Mixing
+MB193,360.0,4.0,Hours,Hours,Master Mixing
+MB193MC,,,,,Mixing
+MB200,360.0,4.0,Hours,Hours,Master Mixing
+MB208,360.0,4.0,Hours,Hours,Mixing
+MB208MC,,,,,Mixing
+MB230,360.0,4.0,Hours,Hours,Mixing
+MB230MC,,,,,Mixing
+MB231,96.0,4.0,Hours,Hours,Mixing
+MB231MC,,,,,Mixing
+MB251G,360.0,4.0,Hours,Hours,Master Mixing
+MB251GMC,,,,,Mixing
+MB2868,360.0,4.0,Hours,Hours,Master Mixing
+MB2868MC,,,,,Mixing
+MB33,360.0,4.0,Hours,Hours,Mixing
+MB331,360.0,4.0,Hours,Hours,Mixing
+MB331MC,,,,,Mixing
+MB339,360.0,4.0,Hours,Hours,Master Mixing
+MB339MC,,,,,Mixing
+MB33MC,,,,,Mixing
+MB348,360.0,4.0,Hours,Hours,Master Mixing
+MB348MC,,,,,Mixing
+MB352,360.0,4.0,Hours,Hours,Mixing
+MB352MC,,,,,Mixing
+MB357,360.0,4.0,Hours,Hours,Mixing
+MB357MC,,,,,Mixing
+MB390,360.0,4.0,Hours,Hours,Mixing
+MB390MC,,,,,Mixing
+MB400,360.0,4.0,Hours,Hours,Mixing
+MB400MC,,,,,Mixing
+MB440,360.0,4.0,Hours,Hours,Mixing
+MB440MC,,,,,Mixing
+MB45,360.0,4.0,Hours,Hours,Mixing
+MB45MC,,,,,Mixing
+MB57,360.0,4.0,Hours,Hours,Master Mixing
+MB57MC,,,,,Mixing
+MB603,360.0,4.0,Hours,Hours,Master Mixing
+MB603AMC,,,,,Mixing
+MB603BMC,,,,,Mixing
+MB614,360.0,4.0,Hours,Hours,Mixing
+MB614MC,,,,,Mixing
+MB712,360.0,4.0,Hours,Hours,Mixing
+MB712MC,,,,,Mixing
+MB713,360.0,4.0,Hours,Hours,Mixing
+MB713MC,,,,,Mixing
+MB721,360.0,4.0,Hours,Hours,Master Mixing
+MB722,360.0,4.0,Hours,Hours,Master Mixing
+MB723,360.0,4.0,Hours,Hours,Master Mixing
+MB802,360.0,4.0,Hours,Hours,Mixing
+MB802MC,,,,,Mixing
+MB813,360.0,4.0,Hours,Hours,Mixing
+MB91,360.0,4.0,Hours,Hours,Master Mixing
+MB91MC,,,,,Mixing
+MB94,360.0,4.0,Hours,Hours,Master Mixing
+MB94MC,,,,,Mixing
+MB95MC,,,,,Mixing
+MGB78,360.0,4.0,Hours,Hours,Master Mixing
+MGB78MC,,,,,Mixing
+MGB79,360.0,4.0,Hours,Hours,Master Mixing
+MGL5,360.0,4.0,Hours,Hours,Master Mixing
+MGL5MC,,,,,Mixing
+MGS44,360.0,4.0,Hours,Hours,Master Mixing
+MGS44AMC,,,,,Mixing
+MGS44BMC,,,,,Mixing
+MGS46,360.0,4.0,Hours,Hours,Master Mixing
+MGS46AMC,,,,,Mixing
+MGS46BMC,,,,,Mixing
+MGT18,360.0,4.0,Hours,Hours,Master Mixing
+MGT18MC,,,,,Mixing
+MGT43,360.0,4.0,Hours,Hours,Master Mixing
+MGT43MC,,,,,Mixing
+MJV05,360.0,4.0,Hours,Hours,Master Mixing
+MJV05MC,,,,,Mixing
+ML405,360.0,4.0,Hours,Hours,Mixing
+ML405AMC,,,,,Mixing
+ML405BMC,,,,,Mixing
+ML405MC,,,,,Mixing
+ML605,360.0,4.0,Hours,Hours,Mixing
+ML605MC,,,,,Mixing
+MONOCHAF120,,,,,Slitting
+MONOCHAF80,,,,,Slitting
+MONOCHAFER,72.0,4.0,Hours,Hours,Calendering
+MR118,360.0,4.0,Hours,Hours,Mixing
+MR118MC,,,,,Mixing
+MR119,360.0,4.0,Hours,Hours,Mixing
+MR119MC,,,,,Mixing
+MR128,360.0,4.0,Hours,Hours,Mixing
+MR128MC,,,,,Mixing
+MR129,360.0,4.0,Hours,Hours,Mixing
+MR129MC,,,,,Mixing
+MR156,360.0,4.0,Hours,Hours,Mixing
+MR156AMC,,,,,Mixing
+MR156BMC,,,,,Mixing
+MR157,360.0,4.0,Hours,Hours,Mixing
+MR157MC,,,,,Mixing
+MR48,360.0,4.0,Hours,Hours,Master Mixing
+MR48MC,,,,,Mixing
+MR494,360.0,4.0,Hours,Hours,Master Mixing
+MR494MC,,,,,Mixing
+MR495,360.0,4.0,Hours,Hours,Master Mixing
+MR5,360.0,4.0,Hours,Hours,Master Mixing
+MR56,360.0,4.0,Hours,Hours,Master Mixing
+MR560,360.0,4.0,Hours,Hours,Master Mixing
+MR56MC,,,,,Mixing
+MR5MC,,,,,Mixing
+MS101,360.0,4.0,Hours,Hours,Master Mixing
+MS101AMC,,,,,Mixing
+MS101BMC,,,,,Mixing
+MS1036,360.0,4.0,Hours,Hours,Mixing
+MS1036MC,,,,,Mixing
+MS105,360.0,4.0,Hours,Hours,Mixing
+MS105AMC,,,,,Mixing
+MS105BMC,,,,,Mixing
+MS1066,360.0,4.0,Hours,Hours,Final Mixing
+MS1066FC,,,,,Final Mixing
+MS145,360.0,4.0,Hours,Hours,Mixing
+MS145MC,,,,,Mixing
+MS146,360.0,4.0,Hours,Hours,Mixing
+MS146MC,,,,,Mixing
+MS43,360.0,4.0,Hours,Hours,Master Mixing
+MS43AMC,,,,,Mixing
+MS43BMC,,,,,Mixing
+MS44,360.0,4.0,Hours,Hours,Master Mixing
+MS44MC,,,,,Mixing
+MS65,360.0,4.0,Hours,Hours,Mixing
+MS65MC,,,,,Mixing
+MS66,360.0,4.0,Hours,Hours,Mixing
+MS66MC,,,,,Mixing
+MS70,360.0,4.0,Hours,Hours,Master Mixing
+MS70AMC,,,,,Mixing
+MS70BMC,,,,,Mixing
+MT1102,360.0,4.0,Hours,Hours,Master Mixing
+MT1102MC,,,,,Mixing
+MT1163,360.0,4.0,Hours,Hours,Master Mixing
+MT1188,360.0,4.0,Hours,Hours,Master Mixing
+MT12,360.0,4.0,Hours,Hours,Master Mixing
+MT12MC,,,,,Mixing
+MT1300,360.0,4.0,Hours,Hours,Mixing
+MT1300MC,,,,,Mixing
+MT1400,360.0,4.0,Hours,Hours,Mixing
+MT1400MC,,,,,Mixing
+MT1404,360.0,4.0,Hours,Hours,Master Mixing
+MT1415,360.0,4.0,Hours,Hours,Mixing
+MT1415MC,,,,,Mixing
+MT1462,360.0,4.0,Hours,Hours,Master Mixing
+MT1462AMC,,,,,Mixing
+MT1462BMC,,,,,Mixing
+MT153X,360.0,4.0,Hours,Hours,Master Mixing
+MT153XMC,,,,,Mixing
+MT1540AMC,,,,,Mixing
+MT1540BMC,,,,,Mixing
+MT1552,360.0,4.0,Hours,Hours,Mixing
+MT1552MC,,,,,Mixing
+MT1663,360.0,4.0,Hours,Hours,Master Mixing
+MT1663MC,,,,,Mixing
+MT1664,360.0,4.0,Hours,Hours,Master Mixing
+MT1664MC,,,,,Mixing
+MT17,360.0,4.0,Hours,Hours,Master Mixing
+MT17AMC,,,,,Mixing
+MT17BMC,,,,,Mixing
+MT181,360.0,4.0,Hours,Hours,Mixing
+MT181MC,,,,,Mixing
+MT2004,360.0,4.0,Hours,Hours,Mixing
+MT2004AMC,,,,,Mixing
+MT2004BMC,,,,,Mixing
+MT2051,360.0,4.0,Hours,Hours,Master Mixing
+MT2051MC,,,,,Mixing
+MT2202,360.0,4.0,Hours,Hours,Mixing
+MT2202MC,,,,,Mixing
+MT2348,360.0,4.0,Hours,Hours,Master Mixing
+MT2348MC,,,,,Mixing
+MT2349,360.0,4.0,Hours,Hours,Master Mixing
+MT2349MC,,,,,Mixing
+MT2350,360.0,4.0,Hours,Hours,Master Mixing
+MT2350MC,,,,,Mixing
+MT24,360.0,4.0,Hours,Hours,Master Mixing
+MT24MC,,,,,Mixing
+MT2613,360.0,4.0,Hours,Hours,Master Mixing
+MT273M,360.0,4.0,Hours,Hours,Mixing
+MT273MMC,,,,,Mixing
+MT2779,360.0,4.0,Hours,Hours,Mixing
+MT2779MC,,,,,Mixing
+MT2780,360.0,4.0,Hours,Hours,Mixing
+MT2780MC,,,,,Mixing
+MT2826,360.0,4.0,Hours,Hours,Master Mixing
+MT2826AMC,,,,,Mixing
+MT2826BMC,,,,,Mixing
+MT2827MC,,,,,Mixing
+MT3018,360.0,4.0,Hours,Hours,Master Mixing
+MT3018AMC,,,,,Mixing
+MT3018BMC,,,,,Mixing
+MT3019MC,,,,,Mixing
+MT3043,360.0,4.0,Hours,Hours,Master Mixing
+MT3043MC,,,,,Mixing
+MT3044,360.0,4.0,Hours,Hours,Master Mixing
+MT34,360.0,4.0,Hours,Hours,Master Mixing
+MT3704,360.0,4.0,Hours,Hours,Mixing
+MT3704AMC,,,,,Mixing
+MT3704BMC,,,,,Mixing
+MT374,360.0,4.0,Hours,Hours,Mixing
+MT374MC,,,,,Mixing
+MT375,360.0,4.0,Hours,Hours,Mixing
+MT375MC,,,,,Mixing
+MT4013,360.0,4.0,Hours,Hours,Master Mixing
+MT4013AMC,,,,,Mixing
+MT4014,360.0,4.0,Hours,Hours,Master Mixing
+MT4014MC,,,,,Mixing
+MT4023,360.0,4.0,Hours,Hours,Master Mixing
+MT4023AMC,,,,,Mixing
+MT4023BMC,,,,,Mixing
+MT4024,360.0,4.0,Hours,Hours,Master Mixing
+MT4024MC,,,,,Mixing
+MT4028,360.0,4.0,Hours,Hours,Master Mixing
+MT4028AMC,,,,,Mixing
+MT4028BMC,,,,,Mixing
+MT4029,360.0,4.0,Hours,Hours,Master Mixing
+MT4029MC,,,,,Mixing
+MT404,360.0,4.0,Hours,Hours,Master Mixing
+MT404AMC,,,,,Mixing
+MT404BMC,,,,,Mixing
+MT405,360.0,4.0,Hours,Hours,Master Mixing
+MT405MC,,,,,Mixing
+MT4073,360.0,4.0,Hours,Hours,Master Mixing
+MT4073MC,,,,,Mixing
+MT4074,360.0,4.0,Hours,Hours,Master Mixing
+MT4074MC,,,,,Mixing
+MT4085,360.0,4.0,Hours,Hours,Mixing
+MT4085MC,,,,,Mixing
+MT4086,360.0,4.0,Hours,Hours,Mixing
+MT4237,360.0,4.0,Hours,Hours,Master Mixing
+MT4237AMC,,,,,Mixing
+MT4237BMC,,,,,Mixing
+MT4320,360.0,4.0,Hours,Hours,Mixing
+MT4320MC,,,,,Mixing
+MT4325,360.0,4.0,Hours,Hours,Mixing
+MT4333H,360.0,4.0,Hours,Hours,Mixing
+MT4333HMC,,,,,Mixing
+MT4362,360.0,4.0,Hours,Hours,Master Mixing
+MT4362MC,,,,,Mixing
+MT4364,360.0,4.0,Hours,Hours,Master Mixing
+MT4364AMC,,,,,Mixing
+MT4364BMC,,,,,Mixing
+MT4374,360.0,4.0,Hours,Hours,Mixing
+MT4374MC,,,,,Mixing
+MT4375,360.0,4.0,Hours,Hours,Mixing
+MT4375MC,,,,,Mixing
+MT4410,360.0,4.0,Hours,Hours,Master Mixing
+MT4410MC,,,,,Mixing
+MT4444H,360.0,4.0,Hours,Hours,Mixing
+MT4444HMC,,,,,Mixing
+MT4560,360.0,4.0,Hours,Hours,Master Mixing
+MT4561,360.0,4.0,Hours,Hours,Master Mixing
+MT4577,360.0,4.0,Hours,Hours,Master Mixing
+MT4630,360.0,4.0,Hours,Hours,Master Mixing
+MT4630AMC,,,,,Mixing
+MT4630BMC,,,,,Mixing
+MT4631,360.0,4.0,Hours,Hours,Master Mixing
+MT4631MC,,,,,Mixing
+MT4705,360.0,4.0,Hours,Hours,Mixing
+MT4705AMC,,,,,Mixing
+MT4705BMC,,,,,Mixing
+MT4720,360.0,4.0,Hours,Hours,Master Mixing
+MT4720MC,,,,,Mixing
+MT4831,360.0,4.0,Hours,Hours,Master Mixing
+MT4831MC,,,,,Mixing
+MT49,360.0,4.0,Hours,Hours,Master Mixing
+MT492,360.0,4.0,Hours,Hours,Master Mixing
+MT492MC,,,,,Mixing
+MT49AMC,,,,,Mixing
+MT49BMC,,,,,Mixing
+MT507,360.0,4.0,Hours,Hours,Mixing
+MT507MC,,,,,Mixing
+MT5651,360.0,4.0,Hours,Hours,Master Mixing
+MT5651MC,,,,,Mixing
+MT5652,360.0,4.0,Hours,Hours,Master Mixing
+MT5652MC,,,,,Mixing
+MT571,360.0,4.0,Hours,Hours,Master Mixing
+MT5717,360.0,4.0,Hours,Hours,Master Mixing
+MT5717MC,,,,,Mixing
+MT571MC,,,,,Mixing
+MT5750,360.0,4.0,Hours,Hours,Master Mixing
+MT5750AMC,,,,,Mixing
+MT5750BMC,,,,,Mixing
+MT594,360.0,4.0,Hours,Hours,Master Mixing
+MT6,360.0,4.0,Hours,Hours,Master Mixing
+MT62,360.0,4.0,Hours,Hours,Master Mixing
+MT627,360.0,4.0,Hours,Hours,Master Mixing
+MT627MC,,,,,Mixing
+MT62MC,,,,,Mixing
+MT63,360.0,4.0,Hours,Hours,Master Mixing
+MT637,360.0,4.0,Hours,Hours,Master Mixing
+MT637MC,,,,,Mixing
+MT6381,360.0,4.0,Hours,Hours,Master Mixing
+MT6381MC,,,,,Mixing
+MT6381RP,360.0,4.0,Hours,Hours,Master Mixing
+MT658,360.0,4.0,Hours,Hours,Mixing
+MT6580,360.0,4.0,Hours,Hours,Mixing
+MT6580RP,360.0,4.0,Hours,Hours,Mixing
+MT658AMC,,,,,Mixing
+MT658BMC,,,,,Mixing
+MT6MC,,,,,Mixing
+MT702,360.0,4.0,Hours,Hours,Master Mixing
+MT702MC,,,,,Mixing
+MT7108,360.0,4.0,Hours,Hours,Mixing
+MT7108AMC,,,,,Mixing
+MT7108BMC,,,,,Mixing
+MT7203,360.0,4.0,Hours,Hours,Mixing
+MT7203MC,,,,,Mixing
+MT7211,360.0,4.0,Hours,Hours,Mixing
+MT7218,360.0,4.0,Hours,Hours,Mixing
+MT7218AMC,,,,,Mixing
+MT7218BMC,,,,,Mixing
+MT7232,360.0,4.0,Hours,Hours,Mixing
+MT7232AMC,,,,,Mixing
+MT7232BMC,,,,,Mixing
+MT7245,360.0,4.0,Hours,Hours,Mixing
+MT7245AMC,,,,,Mixing
+MT7245BMC,,,,,Mixing
+MT8,360.0,4.0,Hours,Hours,Master Mixing
+MT812,360.0,4.0,Hours,Hours,Master Mixing
+MT8AMC,,,,,Mixing
+MT8BMC,,,,,Mixing
+MT942,360.0,4.0,Hours,Hours,Master Mixing
+MT942AMC,,,,,Mixing
+MT942BMC,,,,,Mixing
+MT9604,360.0,4.0,Hours,Hours,Master Mixing
+MT9604AMC,,,,,Mixing
+MT9604BMC,,,,,Mixing
+MT9605,360.0,4.0,Hours,Hours,Master Mixing
+MT9605MC,,,,,Mixing
+MT9637,360.0,4.0,Hours,Hours,Master Mixing
+MT9637AMC,,,,,Mixing
+MT9637BMC,,,,,Mixing
+MT9638,360.0,4.0,Hours,Hours,Master Mixing
+MT9638MC,,,,,Mixing
+MT982,360.0,4.0,Hours,Hours,Master Mixing
+MT982MC,,,,,Mixing
+MT983,360.0,4.0,Hours,Hours,Master Mixing
+MT983MC,,,,,Mixing
+MTCM313,360.0,4.0,Hours,Hours,Mixing
+MTS7,360.0,4.0,Hours,Hours,Master Mixing
+MTS75,360.0,4.0,Hours,Hours,Master Mixing
+MTS7MC,,,,,Mixing
+NOT APPLICABLE,24.0,0.0,Hours,Hours,Cutting
+NYDBCHF,,,,,Slitting
+NYLCHAFER CUT 440,,,,,Cutting
+NYLON23-02,,,,,Slitting
+NYLRAD,72.0,4.0,Hours,Hours,Calendering
+PBP01,24.0,0.0,Hours,Hours,Cutting
+PBP02,24.0,0.0,Hours,Hours,Cutting
+PBP03,24.0,0.0,Hours,Hours,Cutting
+PBP04,24.0,0.0,Hours,Hours,Cutting
+PBP05,24.0,0.0,Hours,Hours,Cutting
+PBP06,24.0,0.0,Hours,Hours,Cutting
+PBP07,24.0,0.0,Hours,Hours,Cutting
+PBP08,24.0,0.0,Hours,Hours,Cutting
+PBP09,24.0,0.0,Hours,Hours,Cutting
+PBP10,24.0,0.0,Hours,Hours,Cutting
+PBP100,24.0,0.0,Hours,Hours,Cutting
+PBP101,24.0,0.0,Hours,Hours,Cutting
+PBP102,24.0,0.0,Hours,Hours,Cutting
+PBP103,24.0,0.0,Hours,Hours,Cutting
+PBP104,24.0,0.0,Hours,Hours,Cutting
+PBP105,24.0,0.0,Hours,Hours,Cutting
+PBP106,24.0,0.0,Hours,Hours,Cutting
+PBP107,24.0,0.0,Hours,Hours,Cutting
+PBP108,24.0,0.0,Hours,Hours,Cutting
+PBP109,24.0,0.0,Hours,Hours,Cutting
+PBP11,24.0,0.0,Hours,Hours,Cutting
+PBP110,24.0,0.0,Hours,Hours,Cutting
+PBP111,24.0,0.0,Hours,Hours,Cutting
+PBP112,24.0,0.0,Hours,Hours,Cutting
+PBP113,24.0,0.0,Hours,Hours,Cutting
+PBP114,24.0,0.0,Hours,Hours,Cutting
+PBP115,24.0,0.0,Hours,Hours,Cutting
+PBP116,24.0,0.0,Hours,Hours,Cutting
+PBP117,24.0,0.0,Hours,Hours,Cutting
+PBP118,24.0,0.0,Hours,Hours,Cutting
+PBP119,24.0,0.0,Hours,Hours,Cutting
+PBP12,24.0,0.0,Hours,Hours,Cutting
+PBP120,24.0,0.0,Hours,Hours,Cutting
+PBP121,24.0,0.0,Hours,Hours,Cutting
+PBP122,24.0,0.0,Hours,Hours,Cutting
+PBP123,24.0,0.0,Hours,Hours,Cutting
+PBP124,24.0,0.0,Hours,Hours,Cutting
+PBP125,24.0,0.0,Hours,Hours,Cutting
+PBP126,24.0,0.0,Hours,Hours,Cutting
+PBP127,24.0,0.0,Hours,Hours,Cutting
+PBP13,24.0,0.0,Hours,Hours,Cutting
+PBP130,24.0,0.0,Hours,Hours,Cutting
+PBP132,24.0,0.0,Hours,Hours,Cutting
+PBP133,24.0,0.0,Hours,Hours,Cutting
+PBP135,24.0,0.0,Hours,Hours,Cutting
+PBP136,24.0,0.0,Hours,Hours,Cutting
+PBP137,24.0,0.0,Hours,Hours,Cutting
+PBP138,24.0,0.0,Hours,Hours,Cutting
+PBP139,24.0,0.0,Hours,Hours,Cutting
+PBP14,24.0,0.0,Hours,Hours,Cutting
+PBP140,24.0,0.0,Hours,Hours,Cutting
+PBP141,24.0,0.0,Hours,Hours,Cutting
+PBP142,24.0,0.0,Hours,Hours,Cutting
+PBP143,24.0,0.0,Hours,Hours,Cutting
+PBP144,24.0,0.0,Hours,Hours,Cutting
+PBP145,24.0,0.0,Hours,Hours,Cutting
+PBP146,24.0,0.0,Hours,Hours,Cutting
+PBP147,24.0,0.0,Hours,Hours,Cutting
+PBP148,24.0,0.0,Hours,Hours,Cutting
+PBP149,24.0,0.0,Hours,Hours,Cutting
+PBP15,24.0,0.0,Hours,Hours,Cutting
+PBP150,24.0,0.0,Hours,Hours,Cutting
+PBP151,24.0,0.0,Hours,Hours,Cutting
+PBP152,24.0,0.0,Hours,Hours,Cutting
+PBP16,24.0,0.0,Hours,Hours,Cutting
+PBP17,24.0,0.0,Hours,Hours,Cutting
+PBP18,24.0,0.0,Hours,Hours,Cutting
+PBP19,24.0,0.0,Hours,Hours,Cutting
+PBP21,24.0,0.0,Hours,Hours,Cutting
+PBP22,24.0,0.0,Hours,Hours,Cutting
+PBP24,24.0,0.0,Hours,Hours,Cutting
+PBP25,24.0,0.0,Hours,Hours,Cutting
+PBP26,24.0,0.0,Hours,Hours,Cutting
+PBP27,24.0,0.0,Hours,Hours,Cutting
+PBP28,24.0,0.0,Hours,Hours,Cutting
+PBP29,24.0,0.0,Hours,Hours,Cutting
+PBP30,24.0,0.0,Hours,Hours,Cutting
+PBP31,24.0,0.0,Hours,Hours,Cutting
+PBP33,24.0,0.0,Hours,Hours,Cutting
+PBP34,24.0,0.0,Hours,Hours,Cutting
+PBP35,24.0,0.0,Hours,Hours,Cutting
+PBP36,24.0,0.0,Hours,Hours,Cutting
+PBP37,24.0,0.0,Hours,Hours,Cutting
+PBP38,24.0,0.0,Hours,Hours,Cutting
+PBP39,24.0,0.0,Hours,Hours,Cutting
+PBP40,24.0,0.0,Hours,Hours,Cutting
+PBP42,24.0,0.0,Hours,Hours,Cutting
+PBP43,24.0,0.0,Hours,Hours,Cutting
+PBP45,24.0,0.0,Hours,Hours,Cutting
+PBP46,24.0,0.0,Hours,Hours,Cutting
+PBP47,24.0,0.0,Hours,Hours,Cutting
+PBP48,24.0,0.0,Hours,Hours,Cutting
+PBP49,24.0,0.0,Hours,Hours,Cutting
+PBP50,24.0,0.0,Hours,Hours,Cutting
+PBP51,24.0,0.0,Hours,Hours,Cutting
+PBP52,24.0,0.0,Hours,Hours,Cutting
+PBP53,24.0,0.0,Hours,Hours,Cutting
+PBP54,24.0,0.0,Hours,Hours,Cutting
+PBP55,24.0,0.0,Hours,Hours,Cutting
+PBP56,24.0,0.0,Hours,Hours,Cutting
+PBP57,24.0,0.0,Hours,Hours,Cutting
+PBP58,24.0,0.0,Hours,Hours,Cutting
+PBP59,24.0,0.0,Hours,Hours,Cutting
+PBP60,24.0,0.0,Hours,Hours,Cutting
+PBP62,24.0,0.0,Hours,Hours,Cutting
+PBP63,24.0,0.0,Hours,Hours,Cutting
+PBP64,24.0,0.0,Hours,Hours,Cutting
+PBP65,24.0,0.0,Hours,Hours,Cutting
+PBP67,24.0,0.0,Hours,Hours,Cutting
+PBP68,24.0,0.0,Hours,Hours,Cutting
+PBP70,24.0,0.0,Hours,Hours,Cutting
+PBP71,24.0,0.0,Hours,Hours,Cutting
+PBP73,24.0,0.0,Hours,Hours,Cutting
+PBP74,24.0,0.0,Hours,Hours,Cutting
+PBP75,24.0,0.0,Hours,Hours,Cutting
+PBP76,24.0,0.0,Hours,Hours,Cutting
+PBP77,24.0,0.0,Hours,Hours,Cutting
+PBP78,24.0,0.0,Hours,Hours,Cutting
+PBP79,24.0,0.0,Hours,Hours,Cutting
+PBP80,24.0,0.0,Hours,Hours,Cutting
+PBP81,24.0,0.0,Hours,Hours,Cutting
+PBP83,24.0,0.0,Hours,Hours,Cutting
+PBP84,24.0,0.0,Hours,Hours,Cutting
+PBP87,24.0,0.0,Hours,Hours,Cutting
+PBP88,24.0,0.0,Hours,Hours,Cutting
+PBP89,24.0,0.0,Hours,Hours,Cutting
+PBP91,24.0,0.0,Hours,Hours,Cutting
+PBP92,24.0,0.0,Hours,Hours,Cutting
+PBP93,24.0,0.0,Hours,Hours,Cutting
+PBP94,24.0,0.0,Hours,Hours,Cutting
+PBP95,24.0,0.0,Hours,Hours,Cutting
+PBP96,24.0,0.0,Hours,Hours,Cutting
+PBP97,24.0,0.0,Hours,Hours,Cutting
+PBP98,24.0,0.0,Hours,Hours,Cutting
+PBP99,24.0,0.0,Hours,Hours,Cutting
+PCRT15,120.0,4.0,Hours,Hours,Final Mixing
+PCRT15FC,,,,,Final Mixing
+PCRT2,120.0,4.0,Hours,Hours,Final Mixing
+PCRT2FC,,,,,Final Mixing
+PLY1  1684 TOR,24.0,0.0,Hours,Hours,Cutting
+PLY1  2155 BRU,24.0,0.0,Hours,Hours,Cutting
+PLY1 1462 NXT,24.0,0.0,Hours,Hours,Cutting
+PLY1 1482 NXT,24.0,0.0,Hours,Hours,Cutting
+PLY1 1865 VEC,24.0,0.0,Hours,Hours,Cutting
+PLY2  2155 BRU,24.0,0.0,Hours,Hours,Cutting
+PLYTEC,72.0,4.0,Hours,Hours,Calendering
+POLYESTER,24.0,0.0,Hours,Hours,Cutting
+R-STC001,24.0,0.0,Hours,Hours,Cutting
+R-STC002,24.0,0.0,Hours,Hours,Cutting
+R-STC003,24.0,0.0,Hours,Hours,Cutting
+R-STC004,24.0,0.0,Hours,Hours,Cutting
+R-STC006,24.0,0.0,Hours,Hours,Cutting
+R-STC007,24.0,0.0,Hours,Hours,Cutting
+R120,120.0,4.0,Hours,Hours,Final Mixing
+R120FC,,,,,Final Mixing
+R130,120.0,4.0,Hours,Hours,Final Mixing
+R130FC,,,,,Final Mixing
+R158,120.0,4.0,Hours,Hours,Final Mixing
+R158FC,,,,,Final Mixing
+R4965,120.0,4.0,Hours,Hours,Final Mixing
+R4965FC,,,,,Mixing
+R5606,120.0,4.0,Hours,Hours,Final Mixing
+R5606FC,,,,,Mixing
+S36,120.0,4.0,Hours,Hours,Final Mixing
+S36FC,,,,,Final Mixing
+S45,120.0,4.0,Hours,Hours,Final Mixing
+S45FC,,,,,Mixing
+S46,120.0,4.0,Hours,Hours,Final Mixing
+S46FC,,,,,Mixing
+S53,120.0,4.0,Hours,Hours,Final Mixing
+S53FC,,,,,Final Mixing
+S54,120.0,4.0,Hours,Hours,Final Mixing
+S54A,360.0,4.0,Hours,Hours,Master Mixing
+S54AMC,,,,,Mixing
+S54AR,360.0,4.0,Hours,Hours,Master Mixing
+S54AR RP,360.0,4.0,Hours,Hours,Master Mixing
+S54ARMC,,,,,Mixing
+S54B,360.0,4.0,Hours,Hours,Master Mixing
+S54BMC,,,,,Mixing
+S54FC,,,,,Mixing
+S71,120.0,4.0,Hours,Hours,Final Mixing
+S71FC,,,,,Mixing
+SA15001,72.0,0.0,Hours,Hours,Bead
+SA16001,72.0,0.0,Hours,Hours,Bead
+SBP01,24.0,0.0,Hours,Hours,Cutting
+SIL01,72.0,6.0,Hours,Hours,Calendering
+SIL03,72.0,6.0,Hours,Hours,Calendering
+SNCT001,,,,,Slitting
+SNCT002,,,,,Slitting
+SNCT003,,,,,Slitting
+SNCT004,,,,,Slitting
+SPB02,24.0,0.0,Hours,Hours,Cutting
+SQ-001,72.0,6.0,Hours,Hours,Calendering
+SQ-002,72.0,6.0,Hours,Hours,Calendering
+SQ-003,72.0,6.0,Hours,Hours,Calendering
+SQ-005,72.0,6.0,Hours,Hours,Calendering
+SQ-006,72.0,6.0,Hours,Hours,Calendering
+SQ-007,72.0,6.0,Hours,Hours,Calendering
+SQ-008,72.0,6.0,Hours,Hours,Calendering
+SQ-009,72.0,6.0,Hours,Hours,Calendering
+SQ-010,72.0,6.0,Hours,Hours,Calendering
+SQ-012,72.0,6.0,Hours,Hours,Calendering
+SQ-013,72.0,6.0,Hours,Hours,Calendering
+SQ-014,72.0,6.0,Hours,Hours,Calendering
+SQ-015,72.0,6.0,Hours,Hours,Calendering
+SQ-016,72.0,6.0,Hours,Hours,Calendering
+SQ-017,72.0,6.0,Hours,Hours,Calendering
+SQ-018,72.0,6.0,Hours,Hours,Calendering
+SQ-019,72.0,6.0,Hours,Hours,Calendering
+SQ-020,72.0,6.0,Hours,Hours,Calendering
+SQ-021,72.0,6.0,Hours,Hours,Calendering
+SQ-022,72.0,6.0,Hours,Hours,Calendering
+STC WRAP 58,,,,,Slitting
+STC-001,24.0,0.0,Hours,Hours,Cutting
+STC-002,24.0,0.0,Hours,Hours,Cutting
+STC-WRAP,24.0,0.0,Hours,Hours,Slitting
+SUSSW01,72.0,2.0,Hours,Hours,Extrusion
+SUSSW02,72.0,2.0,Hours,Hours,Extrusion
+SW15001,,,,,Bead
+SWRS01,72.0,2.0,Hours,Hours,Extrusion
+SWRS02,72.0,2.0,Hours,Hours,Extrusion
+SWRS03,72.0,2.0,Hours,Hours,Extrusion
+SWRS04,72.0,2.0,Hours,Hours,Extrusion
+SWRS05,72.0,2.0,Hours,Hours,Extrusion
+SWRS07,72.0,2.0,Hours,Hours,Extrusion
+SWRS08,72.0,2.0,Hours,Hours,Extrusion
+SWRS09,72.0,2.0,Hours,Hours,Extrusion
+SWRS10,72.0,2.0,Hours,Hours,Extrusion
+SWRS100,72.0,2.0,Hours,Hours,Extrusion
+SWRS101,72.0,2.0,Hours,Hours,Extrusion
+SWRS102,72.0,2.0,Hours,Hours,Extrusion
+SWRS103,72.0,2.0,Hours,Hours,Extrusion
+SWRS105,72.0,2.0,Hours,Hours,Extrusion
+SWRS106,72.0,2.0,Hours,Hours,Extrusion
+SWRS107,72.0,2.0,Hours,Hours,Extrusion
+SWRS108,72.0,2.0,Hours,Hours,Extrusion
+SWRS109,72.0,2.0,Hours,Hours,Extrusion
+SWRS11,72.0,2.0,Hours,Hours,Extrusion
+SWRS110,72.0,2.0,Hours,Hours,Extrusion
+SWRS111,72.0,2.0,Hours,Hours,Extrusion
+SWRS112,72.0,2.0,Hours,Hours,Extrusion
+SWRS115,72.0,2.0,Hours,Hours,Extrusion
+SWRS116,72.0,2.0,Hours,Hours,Extrusion
+SWRS117,72.0,2.0,Hours,Hours,Extrusion
+SWRS118,72.0,2.0,Hours,Hours,Extrusion
+SWRS119,72.0,2.0,Hours,Hours,Extrusion
+SWRS12,72.0,2.0,Hours,Hours,Extrusion
+SWRS120,72.0,2.0,Hours,Hours,Extrusion
+SWRS121,72.0,2.0,Hours,Hours,Extrusion
+SWRS122,72.0,2.0,Hours,Hours,Extrusion
+SWRS123,72.0,2.0,Hours,Hours,Extrusion
+SWRS124,72.0,2.0,Hours,Hours,Extrusion
+SWRS125,72.0,2.0,Hours,Hours,Extrusion
+SWRS126,72.0,2.0,Hours,Hours,Extrusion
+SWRS127,72.0,2.0,Hours,Hours,Extrusion
+SWRS128,72.0,2.0,Hours,Hours,Extrusion
+SWRS129,72.0,2.0,Hours,Hours,Extrusion
+SWRS13,72.0,2.0,Hours,Hours,Extrusion
+SWRS131,72.0,2.0,Hours,Hours,Extrusion
+SWRS132,72.0,2.0,Hours,Hours,Extrusion
+SWRS133,72.0,2.0,Hours,Hours,Extrusion
+SWRS134,72.0,2.0,Hours,Hours,Extrusion
+SWRS135,72.0,2.0,Hours,Hours,Extrusion
+SWRS136,72.0,2.0,Hours,Hours,Extrusion
+SWRS14,72.0,2.0,Hours,Hours,Extrusion
+SWRS140,72.0,2.0,Hours,Hours,Extrusion
+SWRS15,72.0,2.0,Hours,Hours,Extrusion
+SWRS16,72.0,2.0,Hours,Hours,Extrusion
+SWRS170,72.0,2.0,Hours,Hours,Extrusion
+SWRS18,72.0,2.0,Hours,Hours,Extrusion
+SWRS19,72.0,2.0,Hours,Hours,Extrusion
+SWRS20,72.0,2.0,Hours,Hours,Extrusion
+SWRS21,72.0,2.0,Hours,Hours,Extrusion
+SWRS22,72.0,2.0,Hours,Hours,Extrusion
+SWRS23,72.0,2.0,Hours,Hours,Extrusion
+SWRS24,72.0,2.0,Hours,Hours,Extrusion
+SWRS25,72.0,2.0,Hours,Hours,Extrusion
+SWRS26,72.0,2.0,Hours,Hours,Extrusion
+SWRS27,72.0,2.0,Hours,Hours,Extrusion
+SWRS29,72.0,2.0,Hours,Hours,Extrusion
+SWRS30,72.0,2.0,Hours,Hours,Extrusion
+SWRS31,72.0,2.0,Hours,Hours,Extrusion
+SWRS33,72.0,2.0,Hours,Hours,Extrusion
+SWRS34,72.0,2.0,Hours,Hours,Extrusion
+SWRS35,72.0,2.0,Hours,Hours,Extrusion
+SWRS36,72.0,2.0,Hours,Hours,Extrusion
+SWRS37,72.0,2.0,Hours,Hours,Extrusion
+SWRS38,72.0,2.0,Hours,Hours,Extrusion
+SWRS39,72.0,2.0,Hours,Hours,Extrusion
+SWRS40,72.0,2.0,Hours,Hours,Extrusion
+SWRS41,72.0,2.0,Hours,Hours,Extrusion
+SWRS42,72.0,2.0,Hours,Hours,Extrusion
+SWRS43,72.0,2.0,Hours,Hours,Extrusion
+SWRS44,72.0,2.0,Hours,Hours,Extrusion
+SWRS48,72.0,2.0,Hours,Hours,Extrusion
+SWRS49,72.0,2.0,Hours,Hours,Extrusion
+SWRS50,72.0,2.0,Hours,Hours,Extrusion
+SWRS51,72.0,2.0,Hours,Hours,Extrusion
+SWRS52,72.0,2.0,Hours,Hours,Extrusion
+SWRS54,72.0,2.0,Hours,Hours,Extrusion
+SWRS55,72.0,2.0,Hours,Hours,Extrusion
+SWRS56,72.0,2.0,Hours,Hours,Extrusion
+SWRS57,72.0,2.0,Hours,Hours,Extrusion
+SWRS58,72.0,2.0,Hours,Hours,Extrusion
+SWRS59,72.0,2.0,Hours,Hours,Extrusion
+SWRS60,72.0,2.0,Hours,Hours,Extrusion
+T1100FC,,,,,Mixing
+T1333,120.0,4.0,Hours,Hours,Final Mixing
+T1333FC,,,,,Final Mixing
+T1444,120.0,4.0,Hours,Hours,Final Mixing
+T1444FC,,,,,Final Mixing
+T1464,120.0,4.0,Hours,Hours,Final Mixing
+T1464FC,,,,,Mixing
+T15,120.0,4.0,Hours,Hours,Final Mixing
+T153XFC,,,,,Mixing
+T1555,120.0,4.0,Hours,Hours,Final Mixing
+T1555FC,,,,,Final Mixing
+T15FC,,,,,Final Mixing
+T1666FC,,,,,Mixing
+T18,120.0,4.0,Hours,Hours,Final Mixing
+T18FC,,,,,Final Mixing
+T2054,120.0,4.0,Hours,Hours,Final Mixing
+T2054FC,,,,,Mixing
+T2200,120.0,4.0,Hours,Hours,Final Mixing
+T2200FC,,,,,Final Mixing
+T2346FC,,,,,Mixing
+T2777,120.0,4.0,Hours,Hours,Final Mixing
+T2777FC,,,,,Final Mixing
+T3021FC,,,,,Mixing
+T3046FC,,,,,Mixing
+T3427,120.0,4.0,Hours,Hours,Final Mixing
+T3427FC,,,,,Mixing
+T4016FC,,,,,Mixing
+T4022,120.0,4.0,Hours,Hours,Final Mixing
+T4022FC,,,,,Final Mixing
+T4026,120.0,4.0,Hours,Hours,Final Mixing
+T4026FC,,,,,Mixing
+T4027,120.0,4.0,Hours,Hours,Final Mixing
+T4027FC,,,,,Mixing
+T4030FC,,,,,Mixing
+T4075FC,,,,,Mixing
+T4088,120.0,4.0,Hours,Hours,Final Mixing
+T4088FC,,,,,Final Mixing
+T4240,120.0,4.0,Hours,Hours,Final Mixing
+T4240FC,,,,,Mixing
+T4251FC,,,,,Mixing
+T435M,120.0,4.0,Hours,Hours,Final Mixing
+T435MFC,,,,,Final Mixing
+T4360FC,,,,,Mixing
+T4378,120.0,4.0,Hours,Hours,Final Mixing
+T4378FC,,,,,Final Mixing
+T4413FC,,,,,Mixing
+T4555H,120.0,4.0,Hours,Hours,Final Mixing
+T4555HFC,,,,,Final Mixing
+T4580,120.0,4.0,Hours,Hours,Final Mixing
+T4632,120.0,4.0,Hours,Hours,Final Mixing
+T4632FC,,,,,Final Mixing
+T4634FC,,,,,Mixing
+T4834,120.0,4.0,Hours,Hours,Final Mixing
+T4834FC,,,,,Mixing
+T4923,120.0,4.0,Hours,Hours,Final Mixing
+T4923-RP,120.0,4.0,Hours,Hours,Final Mixing
+T4923FC,,,,,Mixing
+T5245,120.0,4.0,Hours,Hours,Final Mixing
+T5245FC,,,,,Mixing
+T5334FC,,,,,Mixing
+T5654FC,,,,,Mixing
+T5720,120.0,4.0,Hours,Hours,Final Mixing
+T5720FC,,,,,Mixing
+T5721,120.0,4.0,Hours,Hours,Final Mixing
+T5721FC,,,,,Mixing
+T5751FC,,,,,Mixing
+T635,120.0,4.0,Hours,Hours,Final Mixing
+T635FC,,,,,Mixing
+T636,120.0,4.0,Hours,Hours,Final Mixing
+T638,120.0,4.0,Hours,Hours,Final Mixing
+T638FC,,,,,Mixing
+T639,120.0,4.0,Hours,Hours,Final Mixing
+T6629,120.0,4.0,Hours,Hours,Final Mixing
+T6629FC,,,,,Mixing
+T6730,120.0,4.0,Hours,Hours,Final Mixing
+T6730FC,,,,,Final Mixing
+T7110,120.0,4.0,Hours,Hours,Final Mixing
+T7110FC,,,,,Final Mixing
+T7220,120.0,4.0,Hours,Hours,Final Mixing
+T7220FC,,,,,Final Mixing
+T7234,120.0,4.0,Hours,Hours,Final Mixing
+T7234FC,,,,,Final Mixing
+T7247,120.0,4.0,Hours,Hours,Final Mixing
+T7247FC,,,,,Final Mixing
+T7260,120.0,4.0,Hours,Hours,Final Mixing
+T7260FC,,,,,Final Mixing
+T8246,120.0,4.0,Hours,Hours,Final Mixing
+T8246FC,,,,,Mixing
+T856,120.0,4.0,Hours,Hours,Final Mixing
+T856FC,,,,,Final Mixing
+T857,360.0,4.0,Hours,Hours,Final Mixing
+T857FC,,,,,Final Mixing
+T945FC,,,,,Mixing
+T9496,120.0,4.0,Hours,Hours,Final Mixing
+T9496FC,,,,,Mixing
+T9607FC,,,,,Mixing
+T9640FC,,,,,Mixing
+T985,120.0,4.0,Hours,Hours,Final Mixing
+T985FC,,,,,Mixing
+TB WRAP B1144,24.0,0.0,Hours,Hours,Slitting
+TBA827,360.0,4.0,Hours,Hours,Final Mixing
+TBA827FC,,,,,Mixing
+TBAPBD001,72.0,0.0,Hours,Hours,Bead
+TBAPBD002,72.0,0.0,Hours,Hours,Bead
+TBAPBD003,72.0,0.0,Hours,Hours,Bead
+TBAPBD004,72.0,0.0,Hours,Hours,Bead
+TBAPBD005,72.0,0.0,Hours,Hours,Bead
+TBAPBD006,72.0,0.0,Hours,Hours,Bead
+TBAPBD007,72.0,0.0,Hours,Hours,Bead
+TBAPBD008,72.0,0.0,Hours,Hours,Bead
+TBAPBD009,72.0,0.0,Hours,Hours,Bead
+TBAPBD010,72.0,0.0,Hours,Hours,Bead
+TBAPBD011,72.0,0.0,Hours,Hours,Bead
+TBAPBD012,72.0,0.0,Hours,Hours,Bead
+TBAPBD013,72.0,0.0,Hours,Hours,Bead
+TBAPBD014,,,,,Bead
+TBP001,24.0,0.0,Hours,Hours,Cutting
+TBP003,24.0,0.0,Hours,Hours,Calendering
+TBP005,24.0,0.0,Hours,Hours,Calendering
+TBP007,24.0,0.0,Hours,Hours,Calendering
+TBP009,24.0,0.0,Hours,Hours,Calendering
+TBP010,24.0,0.0,Hours,Hours,Calendering
+TBP012,24.0,0.0,Hours,Hours,Calendering
+TBP013,24.0,0.0,Hours,Hours,Calendering
+TBP014,24.0,0.0,Hours,Hours,Calendering
+TBP015,24.0,0.0,Hours,Hours,Calendering
+TBP016,24.0,0.0,Hours,Hours,Calendering
+TBP017,24.0,0.0,Hours,Hours,Calendering
+TBP018,24.0,0.0,Hours,Hours,Calendering
+TBP019,24.0,0.0,Hours,Hours,Calendering
+TBP020,24.0,0.0,Hours,Hours,Calendering
+TBP021,24.0,0.0,Hours,Hours,Calendering
+TBP023,24.0,0.0,Hours,Hours,Calendering
+TBP024,24.0,0.0,Hours,Hours,Calendering
+TBP027,24.0,0.0,Hours,Hours,Calendering
+TBP030,24.0,0.0,Hours,Hours,Calendering
+TBP031,24.0,0.0,Hours,Hours,Calendering
+TBP033,24.0,0.0,Hours,Hours,Calendering
+TBP035,24.0,0.0,Hours,Hours,Cutting
+TBP036,24.0,0.0,Hours,Hours,Calendering
+TBP037,24.0,0.0,Hours,Hours,Cutting
+TBP038,24.0,0.0,Hours,Hours,Calendering
+TBP039,24.0,0.0,Hours,Hours,Calendering
+TBP040,24.0,0.0,Hours,Hours,Calendering
+TBPGUM,24.0,0.0,Hours,Hours,Calendering
+TBR GSA 70,,,,,Slitting
+TBWB001,,,,,Bead
+TBWB002,,,,,Bead
+TBWB003,,,,,Bead
+TBWB004,,,,,Bead
+TBWB005,,,,,Bead
+TBWB006,,,,,Bead
+TBWB007,,,,,Bead
+TBWB008,,,,,Bead
+TCA313,120.0,4.0,Hours,Hours,Final Mixing
+TCA313FC,,,,,Mixing
+TEG-01,,,,,Slitting
+TEG-02,24.0,0.0,Hours,Hours,Slitting
+TIL-001,72.0,6.0,Hours,Hours,Calendering
+TIL-002,72.0,6.0,Hours,Hours,Calendering
+TIL-003,72.0,6.0,Hours,Hours,Calendering
+TIL-005,72.0,6.0,Hours,Hours,Calendering
+TIL-006,72.0,6.0,Hours,Hours,Calendering
+TIL-007,72.0,6.0,Hours,Hours,Calendering
+TIL-008,72.0,6.0,Hours,Hours,Calendering
+TIL-009,72.0,6.0,Hours,Hours,Calendering
+TIL-010,72.0,6.0,Hours,Hours,Calendering
+TIL-012,72.0,6.0,Hours,Hours,Calendering
+TIL-013,72.0,6.0,Hours,Hours,Calendering
+TIL-014,72.0,6.0,Hours,Hours,Calendering
+TIL-015,72.0,6.0,Hours,Hours,Calendering
+TIL-016,72.0,6.0,Hours,Hours,Calendering
+TIL-017,72.0,6.0,Hours,Hours,Calendering
+TIL-018,72.0,6.0,Hours,Hours,Calendering
+TIL-019,72.0,6.0,Hours,Hours,Calendering
+TIL-020,72.0,6.0,Hours,Hours,Calendering
+TIL-021,72.0,6.0,Hours,Hours,Calendering
+TIL-022,72.0,6.0,Hours,Hours,Calendering
+TPA-001,72.0,6.0,Hours,Hours,Calendering
+TPA-002,72.0,6.0,Hours,Hours,Calendering
+TPA-003,72.0,6.0,Hours,Hours,Calendering
+TPA-004,72.0,6.0,Hours,Hours,Calendering
+TPA-005,72.0,6.0,Hours,Hours,Calendering
+TPA-007,72.0,6.0,Hours,Hours,Calendering
+TPA-008,72.0,6.0,Hours,Hours,Calendering
+TPA-009,72.0,6.0,Hours,Hours,Calendering
+TPA-010,72.0,6.0,Hours,Hours,Calendering
+TPA-011,72.0,6.0,Hours,Hours,Calendering
+TPA-012,72.0,6.0,Hours,Hours,Calendering
+TPA-013,72.0,6.0,Hours,Hours,Calendering
+TPA-014,72.0,6.0,Hours,Hours,Calendering
+TPA-015,72.0,6.0,Hours,Hours,Calendering
+TPA-016,72.0,6.0,Hours,Hours,Calendering
+TPA-017,72.0,6.0,Hours,Hours,Calendering
+TPA-018,72.0,6.0,Hours,Hours,Calendering
+TPA-020,72.0,6.0,Hours,Hours,Calendering
+TPA-023,72.0,6.0,Hours,Hours,Calendering
+TR5001,72.0,2.0,Hours,Hours,Extrusion
+TR5002,72.0,2.0,Hours,Hours,Extrusion
+TR5003,72.0,2.0,Hours,Hours,Extrusion
+TR5004,72.0,2.0,Hours,Hours,Extrusion
+TR5005,72.0,2.0,Hours,Hours,Extrusion
+TR5007,72.0,2.0,Hours,Hours,Extrusion
+TR5008,72.0,2.0,Hours,Hours,Extrusion
+TR5009,72.0,2.0,Hours,Hours,Extrusion
+TR5010,72.0,2.0,Hours,Hours,Extrusion
+TR5012,72.0,2.0,Hours,Hours,Extrusion
+TR5013,72.0,2.0,Hours,Hours,Extrusion
+TR5014,72.0,2.0,Hours,Hours,Extrusion
+TR5015,72.0,2.0,Hours,Hours,Extrusion
+TR5016,72.0,2.0,Hours,Hours,Extrusion
+TR5017,72.0,2.0,Hours,Hours,Extrusion
+TR5018,72.0,2.0,Hours,Hours,Extrusion
+TR5019,72.0,2.0,Hours,Hours,Extrusion
+TR5020,72.0,2.0,Hours,Hours,Extrusion
+TR5021,72.0,2.0,Hours,Hours,Extrusion
+TR5022,72.0,2.0,Hours,Hours,Extrusion
+TR5023,72.0,2.0,Hours,Hours,Extrusion
+TR5024,72.0,2.0,Hours,Hours,Extrusion
+TR5025,72.0,2.0,Hours,Hours,Extrusion
+TR5026,72.0,2.0,Hours,Hours,Extrusion
+TR5027,72.0,2.0,Hours,Hours,Extrusion
+TR5028,72.0,2.0,Hours,Hours,Extrusion
+TR5029,72.0,2.0,Hours,Hours,Extrusion
+TR5030,72.0,2.0,Hours,Hours,Extrusion
+TR5031,72.0,2.0,Hours,Hours,Extrusion
+TR5032,72.0,2.0,Hours,Hours,Extrusion
+TR5033,72.0,2.0,Hours,Hours,Extrusion
+TR5034,72.0,2.0,Hours,Hours,Extrusion
+TR5035,72.0,2.0,Hours,Hours,Extrusion
+TR5036,72.0,2.0,Hours,Hours,Extrusion
+TR5037,72.0,2.0,Hours,Hours,Extrusion
+TR5038,72.0,2.0,Hours,Hours,Extrusion
+TR5039,72.0,2.0,Hours,Hours,Extrusion
+TR5040,72.0,2.0,Hours,Hours,Extrusion
+TR5041,72.0,2.0,Hours,Hours,Extrusion
+TR5042,72.0,2.0,Hours,Hours,Extrusion
+TR5043,72.0,2.0,Hours,Hours,Extrusion
+TR5045,72.0,2.0,Hours,Hours,Extrusion
+TR5046,72.0,2.0,Hours,Hours,Extrusion
+TR5047,72.0,2.0,Hours,Hours,Extrusion
+TR5048,72.0,2.0,Hours,Hours,Extrusion
+TR5049,72.0,2.0,Hours,Hours,Extrusion
+TR5051,72.0,2.0,Hours,Hours,Extrusion
+TR5054,72.0,2.0,Hours,Hours,Extrusion
+TR5055,72.0,2.0,Hours,Hours,Extrusion
+TR5056,72.0,2.0,Hours,Hours,Extrusion
+TR5057,72.0,2.0,Hours,Hours,Extrusion
+TR5058,72.0,2.0,Hours,Hours,Extrusion
+TR5059,72.0,2.0,Hours,Hours,Extrusion
+TR5060,72.0,2.0,Hours,Hours,Extrusion
+TR5061,72.0,2.0,Hours,Hours,Extrusion
+TR5062,72.0,2.0,Hours,Hours,Extrusion
+TR5063,72.0,2.0,Hours,Hours,Extrusion
+TR5064,72.0,2.0,Hours,Hours,Extrusion
+TR5065,72.0,2.0,Hours,Hours,Extrusion
+TR5066,72.0,2.0,Hours,Hours,Extrusion
+TR5067,72.0,2.0,Hours,Hours,Extrusion
+TR5068,72.0,2.0,Hours,Hours,Extrusion
+TR5069,72.0,2.0,Hours,Hours,Extrusion
+TR5070,72.0,2.0,Hours,Hours,Extrusion
+TR5071,72.0,2.0,Hours,Hours,Extrusion
+TR5072,72.0,2.0,Hours,Hours,Extrusion
+TR5073,72.0,2.0,Hours,Hours,Extrusion
+TR5074,72.0,2.0,Hours,Hours,Extrusion
+TR5075,72.0,2.0,Hours,Hours,Extrusion
+TR5076,72.0,2.0,Hours,Hours,Extrusion
+TR5077,72.0,2.0,Hours,Hours,Extrusion
+TR5078,72.0,2.0,Hours,Hours,Extrusion
+TR5079,72.0,2.0,Hours,Hours,Extrusion
+TR5080,72.0,2.0,Hours,Hours,Extrusion
+TR5081,72.0,2.0,Hours,Hours,Extrusion
+TR5082,72.0,2.0,Hours,Hours,Extrusion
+TR5083,72.0,2.0,Hours,Hours,Extrusion
+TR5084,72.0,2.0,Hours,Hours,Extrusion
+TR5085,72.0,2.0,Hours,Hours,Extrusion
+TR5086,72.0,2.0,Hours,Hours,Extrusion
+TR5087,72.0,2.0,Hours,Hours,Extrusion
+TR5088,72.0,2.0,Hours,Hours,Extrusion
+TR5089,72.0,2.0,Hours,Hours,Extrusion
+TR5090,72.0,2.0,Hours,Hours,Extrusion
+TR5091,72.0,2.0,Hours,Hours,Extrusion
+TR5092,72.0,2.0,Hours,Hours,Extrusion
+TR5093,72.0,2.0,Hours,Hours,Extrusion
+TR5094,72.0,2.0,Hours,Hours,Extrusion
+TR5095,72.0,2.0,Hours,Hours,Extrusion
+TR5096,72.0,2.0,Hours,Hours,Extrusion
+TR5097,72.0,2.0,Hours,Hours,Extrusion
+TR5098,72.0,2.0,Hours,Hours,Extrusion
+TR5099,72.0,2.0,Hours,Hours,Extrusion
+TR5101,72.0,2.0,Hours,Hours,Extrusion
+TR5102,72.0,2.0,Hours,Hours,Extrusion
+TR5103,72.0,2.0,Hours,Hours,Extrusion
+TR5105,72.0,2.0,Hours,Hours,Extrusion
+TR5106,72.0,2.0,Hours,Hours,Extrusion
+TR5107,72.0,2.0,Hours,Hours,Extrusion
+TR5108,72.0,2.0,Hours,Hours,Extrusion
+TR5109,72.0,2.0,Hours,Hours,Extrusion
+TR5110,72.0,2.0,Hours,Hours,Extrusion
+TR5111,72.0,2.0,Hours,Hours,Extrusion
+TR5113,72.0,2.0,Hours,Hours,Extrusion
+TR5114,72.0,2.0,Hours,Hours,Extrusion
+TR5115,72.0,2.0,Hours,Hours,Extrusion
+TR5117,72.0,2.0,Hours,Hours,Extrusion
+TR5120,72.0,2.0,Hours,Hours,Extrusion
+TR5123,72.0,2.0,Hours,Hours,Extrusion
+TR5501,72.0,2.0,Hours,Hours,Extrusion
+TR5502,72.0,2.0,Hours,Hours,Extrusion
+TR5503,72.0,2.0,Hours,Hours,Extrusion
+TR6003,72.0,2.0,Hours,Hours,Extrusion
+TR6007,72.0,2.0,Hours,Hours,Extrusion
+TR6009,72.0,2.0,Hours,Hours,Extrusion
+TR6010,72.0,2.0,Hours,Hours,Extrusion
+TR6011,72.0,2.0,Hours,Hours,Extrusion
+TR6012,72.0,2.0,Hours,Hours,Extrusion
+TR6013,72.0,2.0,Hours,Hours,Extrusion
+TR6014,72.0,2.0,Hours,Hours,Extrusion
+TR6015,72.0,2.0,Hours,Hours,Extrusion
+TR6016,72.0,2.0,Hours,Hours,Extrusion
+TR6017,72.0,2.0,Hours,Hours,Extrusion
+TR6018,72.0,2.0,Hours,Hours,Extrusion
+TR6019,72.0,2.0,Hours,Hours,Extrusion
+TR6020,72.0,2.0,Hours,Hours,Extrusion
+TR6021,72.0,2.0,Hours,Hours,Extrusion
+TR6025,72.0,2.0,Hours,Hours,Extrusion
+TR6026,72.0,2.0,Hours,Hours,Extrusion
+TR6027,72.0,2.0,Hours,Hours,Extrusion
+TR6028,72.0,2.0,Hours,Hours,Extrusion
+TR6029,72.0,2.0,Hours,Hours,Extrusion
+TR6030,72.0,2.0,Hours,Hours,Extrusion
+TR6031,72.0,2.0,Hours,Hours,Extrusion
+TR6032,72.0,2.0,Hours,Hours,Extrusion
+TR6034,72.0,2.0,Hours,Hours,Extrusion
+TR6036,72.0,2.0,Hours,Hours,Extrusion
+TR6043,72.0,2.0,Hours,Hours,Extrusion
+TRD 1402 XPC TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 1412 XPC MM,72.0,2.0,Hours,Hours,Extrusion
+TRD 1422 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1432 UNXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1442 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1452 XPC MM,72.0,2.0,Hours,Hours,Extrusion
+TRD 1453 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1462 NXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1472 NXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1482 NXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1482 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1483 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1492 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1492 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1502 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1503 NEO MSIL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1512 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1513 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1513 XPC1 MSIL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1523 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1533 NEO TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 1543 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1543 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1553 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1564 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1583 NEO TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 1583 VEC NISSAN,72.0,2.0,Hours,Hours,Extrusion
+TRD 1593 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1593 NEO TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 1604 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1614 XPC NISSAN,72.0,2.0,Hours,Hours,Extrusion
+TRD 1623 UHL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1624 XPC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1634 XPC TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 1644 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1654 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 1654 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1664 SPT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1672 SPT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1673 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1674 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1684 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1684 SPT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1684 TOR MARUT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1685 XPC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1694 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1713 NEO EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1714 XPC GM,72.0,2.0,Hours,Hours,Extrusion
+TRD 1724 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1754 VEC TL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1765 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1772 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1773 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1774 VEC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1784 VEC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1804 XPC TT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1805 VEC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1814 LT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1816 RAN BRT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1824 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1834 VEC EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1835 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1844 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1844 VEC NISSAN,72.0,2.0,Hours,Hours,Extrusion
+TRD 1844 XPC TML,72.0,2.0,Hours,Hours,Extrusion
+TRD 1854 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1854 XPC TT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1855 ROYL HYU,72.0,2.0,Hours,Hours,Extrusion
+TRD 1856 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1864 SPT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1865 ROYL RENO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1873 NEO,72.0,2.0,Hours,Hours,Extrusion
+TRD 1874 VEC MM,72.0,2.0,Hours,Hours,Extrusion
+TRD 1875 ALP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1884 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1885 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1886 BRU MM,72.0,2.0,Hours,Hours,Extrusion
+TRD 1894 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1895 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 1905 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1914 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1915 LT XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1916 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1924 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1925 XPC1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1935 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1936 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1945 ALP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1946 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1955 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1956 BLA HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 1956 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1956 VEC,72.0,2.0,Hours,Hours,Extrusion
+TRD 1964 SPT,72.0,2.0,Hours,Hours,Extrusion
+TRD 1965 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1965 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 1966 RAN HTP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1975 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 1985 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1985 UX1 XL,72.0,2.0,Hours,Hours,Extrusion
+TRD 1995 ROYL KIA,72.0,2.0,Hours,Hours,Extrusion
+TRD 2015 RAN ATW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2016 RAN ATW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2017 RAN HTW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2025 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2026 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2035 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2045 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2046 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2047 ROYL HYU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2055 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2056 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2056 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2057 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2065 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2066 MAX,72.0,2.0,Hours,Hours,Extrusion
+TRD 2075 RAN AT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2076 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2096 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2115 RAN HTW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2116 ROYL HYU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2117 RAN HTW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2125 RAN AT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2126 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2155 BRU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2156 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2157 RAN HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 2157 ROYL KIA,72.0,2.0,Hours,Hours,Extrusion
+TRD 2157 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2158 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2158 ROYL HYU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2166 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2166 RAN HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 2167 RAN HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 2167 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2175 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2176 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2177 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2216 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2217 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2226 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2227 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2237 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2247 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2256 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2257 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2258 RAN HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 2266 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2267 ROYL HYU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2267 ROYL PG,72.0,2.0,Hours,Hours,Extrusion
+TRD 2268 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2275 RAN A/T,72.0,2.0,Hours,Hours,Extrusion
+TRD 2276 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2277 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2287 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2335 BLA XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2337 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2338 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2348 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2355 BRU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2356 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2357 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2366 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2367 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2367 RAN XATW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2368 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2368 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2375 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2375 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2408 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2417 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2428 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2447 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2448 UX1,72.0,2.0,Hours,Hours,Extrusion
+TRD 2455 RAN A/T,72.0,2.0,Hours,Hours,Extrusion
+TRD 2457 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2458 RAN HPE,72.0,2.0,Hours,Hours,Extrusion
+TRD 2476 RAN HT2,72.0,2.0,Hours,Hours,Extrusion
+TRD 2476 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2476 SUP MM,72.0,2.0,Hours,Hours,Extrusion
+TRD 2506 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2516 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2526 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2526 ROYL PG,72.0,2.0,Hours,Hours,Extrusion
+TRD 2549 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2556 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD 2557 HPE KIA,72.0,2.0,Hours,Hours,Extrusion
+TRD 2557 UX1 EXP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2565 UXT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2567 EZO TOU,72.0,2.0,Hours,Hours,Extrusion
+TRD 2568 RAN AT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2568 RAN ATB,72.0,2.0,Hours,Hours,Extrusion
+TRD 2568 RAN HT2,72.0,2.0,Hours,Hours,Extrusion
+TRD 2568 RAN HTP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2569 RAN AT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2575 RAN A/T,72.0,2.0,Hours,Hours,Extrusion
+TRD 2576 EZO TATA,72.0,2.0,Hours,Hours,Extrusion
+TRD 2616 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2617 RAN XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2618 RAN ATB,72.0,2.0,Hours,Hours,Extrusion
+TRD 2627 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2656 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2657 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2657 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2657 RAN XATW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2658 RAN HTP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2658 RAN XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2666 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2667 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2667 RAN HT PG,72.0,2.0,Hours,Hours,Extrusion
+TRD 2668 RAN HTP,72.0,2.0,Hours,Hours,Extrusion
+TRD 2668 RAN XATW,72.0,2.0,Hours,Hours,Extrusion
+TRD 2676 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2676 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2677 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2716 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2737 LEVI,72.0,2.0,Hours,Hours,Extrusion
+TRD 2755 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2755 RAN BRT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2756 RAN HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2775 RAN XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2776 RAN AT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2777 BLA HT,72.0,2.0,Hours,Hours,Extrusion
+TRD 2856 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 3005 BLA XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 3105 RAN XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 3115 RAN,72.0,2.0,Hours,Hours,Extrusion
+TRD 3125 RAN MT,72.0,2.0,Hours,Hours,Extrusion
+TRD 3205 RAN XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD 3215 BLA XAT,72.0,2.0,Hours,Hours,Extrusion
+TRD SUS 1765 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD SUS2156 ROYL,72.0,2.0,Hours,Hours,Extrusion
+TRD T1457 STAR,72.0,2.0,Hours,Hours,Extrusion
+TRD1458012NXTTL2S,72.0,2.0,Hours,Hours,Extrusion
+TRD1458012NXTTT2S,72.0,2.0,Hours,Hours,Extrusion
+TRD1658014TNDTL2S,72.0,2.0,Hours,Hours,Extrusion
+TRD1856515VEC2STL,72.0,2.0,Hours,Hours,Extrusion
+TRD2157515BRT2S,72.0,2.0,Hours,Hours,Extrusion
+TSW-001,72.0,2.0,Hours,Hours,Extrusion
+TSW-002,72.0,2.0,Hours,Hours,Extrusion
+TSW-003,72.0,2.0,Hours,Hours,Extrusion
+TSW-004,72.0,2.0,Hours,Hours,Extrusion
+TSW-005,72.0,2.0,Hours,Hours,Extrusion
+TSW-006,72.0,2.0,Hours,Hours,Extrusion
+TSW-007,72.0,2.0,Hours,Hours,Extrusion
+TSW-008,72.0,2.0,Hours,Hours,Extrusion
+TSW-009,72.0,2.0,Hours,Hours,Extrusion
+TSW-011,72.0,2.0,Hours,Hours,Extrusion
+TSW-013,72.0,2.0,Hours,Hours,Extrusion
+TSW-014,72.0,2.0,Hours,Hours,Extrusion
+TSW-015,72.0,2.0,Hours,Hours,Extrusion
+TSW-017,72.0,2.0,Hours,Hours,Extrusion
+TSW-018,72.0,2.0,Hours,Hours,Extrusion
+TSW-019,72.0,2.0,Hours,Hours,Extrusion
+TSW-021,72.0,2.0,Hours,Hours,Extrusion
+TSW-022,72.0,2.0,Hours,Hours,Extrusion
+TSW-023,72.0,2.0,Hours,Hours,Extrusion
+WRAP B186,24.0,0.0,Hours,Hours,Slitting
+XGA309,120.0,4.0,Hours,Hours,Final Mixing
+XGA309FC,,,,,Final Mixing
+XGM309,360.0,4.0,Hours,Hours,Mixing
+XGM309MC,,,,,Mixing
+XGR309,360.0,4.0,Hours,Hours,Mixing
+XGR309MC,,,,,Mixing
+XMA103,360.0,4.0,Hours,Hours,Master Mixing
+XMA103MC,,,,,Mixing
+XMA133MC,,,,,Mixing
+XMA441,360.0,4.0,Hours,Hours,Master Mixing
+XMA541,360.0,4.0,Hours,Hours,Master Mixing
+XMA544,360.0,4.0,Hours,Hours,Master Mixing
+XMB1742,360.0,4.0,Hours,Hours,Master Mixing
+XMB175,360.0,4.0,Hours,Hours,Master Mixing
+XMB175MC,,,,,Mixing
+XMB1851,360.0,4.0,Hours,Hours,Master Mixing
+XMB191MC,,,,,Mixing
+XMB351G,360.0,4.0,Hours,Hours,Master Mixing
+XMB351GMC,,,,,Mixing
+XMB352,360.0,4.0,Hours,Hours,Mixing
+XMB356,360.0,4.0,Hours,Hours,Mixing
+XMB380,360.0,4.0,Hours,Hours,Mixing
+XMB416,360.0,4.0,Hours,Hours,Mixing
+XMB416MC,,,,,Mixing
+XMB604,360.0,4.0,Hours,Hours,Master Mixing
+XMB714,360.0,4.0,Hours,Hours,Mixing
+XMB714MC,,,,,Mixing
+XMB722,360.0,4.0,Hours,Hours,Master Mixing
+XMB813,360.0,4.0,Hours,Hours,Mixing
+XMB814,360.0,4.0,Hours,Hours,Master Mixing
+XMB92,360.0,4.0,Hours,Hours,Master Mixing
+XMB92MC,,,,,Mixing
+XMB932,360.0,4.0,Hours,Hours,Mixing
+XMB95,360.0,4.0,Hours,Hours,Master Mixing
+XMB95MC,,,,,Mixing
+XMB98,360.0,4.0,Hours,Hours,Master Mixing
+XMB98MC,,,,,Mixing
+XMGT18,360.0,4.0,Hours,Hours,Master Mixing
+XMR129,360.0,4.0,Hours,Hours,Mixing
+XMR496,360.0,4.0,Hours,Hours,Master Mixing
+XMS101,360.0,4.0,Hours,Hours,Master Mixing
+XMS106,360.0,4.0,Hours,Hours,Mixing
+XMS106MC,,,,,Mixing
+XMS1106,360.0,4.0,Hours,Hours,Mixing
+XMS1107,360.0,4.0,Hours,Hours,Mixing
+XMS1146,360.0,4.0,Hours,Hours,Mixing
+XMT1101,360.0,4.0,Hours,Hours,Master Mixing
+XMT1315,360.0,4.0,Hours,Hours,Mixing
+XMT1463,360.0,4.0,Hours,Hours,Master Mixing
+XMT1553,360.0,4.0,Hours,Hours,Mixing
+XMT1554,360.0,4.0,Hours,Hours,Mixing
+XMT1554RP,360.0,4.0,Hours,Hours,Mixing
+XMT1665,360.0,4.0,Hours,Hours,Master Mixing
+XMT180,360.0,4.0,Hours,Hours,Mixing
+XMT2005,360.0,4.0,Hours,Hours,Mixing
+XMT2052,360.0,4.0,Hours,Hours,Master Mixing
+XMT2053,360.0,4.0,Hours,Hours,Master Mixing
+XMT2347,360.0,4.0,Hours,Hours,Master Mixing
+XMT244,360.0,4.0,Hours,Hours,Master Mixing
+XMT245,360.0,4.0,Hours,Hours,Master Mixing
+XMT245RP,360.0,4.0,Hours,Hours,Master Mixing
+XMT2614,360.0,4.0,Hours,Hours,Master Mixing
+XMT2778,360.0,4.0,Hours,Hours,Mixing
+XMT3020,360.0,4.0,Hours,Hours,Master Mixing
+XMT3045RP,360.0,4.0,Hours,Hours,Master Mixing
+XMT4015,360.0,4.0,Hours,Hours,Master Mixing
+XMT4025,360.0,4.0,Hours,Hours,Master Mixing
+XMT4029,360.0,4.0,Hours,Hours,Master Mixing
+XMT406,360.0,4.0,Hours,Hours,Master Mixing
+XMT4074,360.0,4.0,Hours,Hours,Master Mixing
+XMT4238,360.0,4.0,Hours,Hours,Master Mixing
+XMT4239,360.0,4.0,Hours,Hours,Master Mixing
+XMT4252,360.0,4.0,Hours,Hours,Master Mixing
+XMT4361,360.0,4.0,Hours,Hours,Master Mixing
+XMT4363,360.0,4.0,Hours,Hours,Master Mixing
+XMT4376,360.0,4.0,Hours,Hours,Mixing
+XMT4377,360.0,4.0,Hours,Hours,Mixing
+XMT4377RP,360.0,4.0,Hours,Hours,Mixing
+XMT4411,360.0,4.0,Hours,Hours,Master Mixing
+XMT4412,360.0,4.0,Hours,Hours,Master Mixing
+XMT4721,360.0,4.0,Hours,Hours,Master Mixing
+XMT4832,360.0,4.0,Hours,Hours,Master Mixing
+XMT4833,360.0,4.0,Hours,Hours,Master Mixing
+XMT493,360.0,4.0,Hours,Hours,Master Mixing
+XMT507,360.0,4.0,Hours,Hours,Mixing
+XMT5333,360.0,4.0,Hours,Hours,Master Mixing
+XMT5653,360.0,4.0,Hours,Hours,Master Mixing
+XMT5718,360.0,4.0,Hours,Hours,Master Mixing
+XMT5719,360.0,4.0,Hours,Hours,Master Mixing
+XMT572,360.0,4.0,Hours,Hours,Master Mixing
+XMT573,360.0,4.0,Hours,Hours,Master Mixing
+XMT5750,360.0,4.0,Hours,Hours,Master Mixing
+XMT6628,360.0,4.0,Hours,Hours,Master Mixing
+XMT7109,360.0,4.0,Hours,Hours,Mixing
+XMT7219,360.0,4.0,Hours,Hours,Mixing
+XMT7233,360.0,4.0,Hours,Hours,Mixing
+XMT7246,360.0,4.0,Hours,Hours,Mixing
+XMT834,360.0,4.0,Hours,Hours,Master Mixing
+XMT834RP,360.0,4.0,Hours,Hours,Master Mixing
+XMT944,360.0,4.0,Hours,Hours,Master Mixing
+XMT9606,360.0,4.0,Hours,Hours,Master Mixing
+XMT9639,360.0,4.0,Hours,Hours,Master Mixing
+XMT984,360.0,4.0,Hours,Hours,Master Mixing
